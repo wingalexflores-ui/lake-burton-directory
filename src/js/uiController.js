@@ -224,7 +224,6 @@ export class UIController {
           <div class="di-title">${escapeHtml(p.title)} ${notedIds.has(p.id) ? '<span class="note-dot" title="Has a saved note">📝</span>' : ''}</div>
           <div class="di-meta">
             <span>${escapeHtml(p.accountNumber)}</span>
-            <span class="status-chip ${statusClass(p.taxStatus)}">${escapeHtml(p.taxStatus)}</span>
           </div>
         </button>
       </li>
