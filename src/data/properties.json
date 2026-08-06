@@ -603,7 +603,36 @@
       "lng": -83.55646,
       "locationApproximate": false,
       "photos": [],
-      "documents": []
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 7",
+          "url": "images/LB09-064-L/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 7",
+          "url": "images/LB09-064-L/deed-2.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 3 of 7",
+          "url": "images/LB09-064-L/deed-3.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 4 of 7",
+          "url": "images/LB09-064-L/deed-4.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 5 of 7",
+          "url": "images/LB09-064-L/deed-5.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 6 of 7",
+          "url": "images/LB09-064-L/deed-6.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 7 of 7",
+          "url": "images/LB09-064-L/deed-7.jpg"
+        }
+      ]
     },
     {
       "id": "LB09 065 L",
@@ -1375,8 +1404,16 @@
       "lat": 34.7631399,
       "lng": -83.4221,
       "locationApproximate": false,
-      "photos": [],
-      "documents": []
+      "photos": [
+        "images/LB15-048-L/photo-1.jpg",
+        "images/LB15-048-L/photo-2.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 1",
+          "url": "images/LB15-048-L/deed-1.jpg"
+        }
+      ]
     },
     {
       "id": "LB14 012",
@@ -2275,7 +2312,7 @@
     {
       "id": "LB14A 025",
       "accountNumber": "LB14A 025",
-      "title": "No exact address",
+      "title": "Fulton Rd, GA 30576 - LL 86 LD 5 LOTS 9,10 BLK 10 (Near 276 Fulton RD)",
       "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=LB14A%20025",
       "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=STEPHENS+ED+L&map_code=LB14A+025&map_type=&logic_unique_key=LB14A025-R-2223",
       "taxStatus": "Fully Paid",
@@ -2381,7 +2418,12 @@
       "lng": -83.5436626,
       "locationApproximate": false,
       "photos": [],
-      "documents": []
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 1",
+          "url": "images/LB14A-025/deed-1.jpg"
+        }
+      ]
     },
     {
       "id": "LB06 085 L",
@@ -13564,6 +13606,929 @@
         }
       ],
       "notes": "There is a person named James K Knight (95yo) deceased which is Mary\u2019s father and under his possible relatives, James Knight JR shows as possible In-law."
+    },
+    {
+      "id": "LB11 066",
+      "accountNumber": "LB11 066",
+      "title": "128 Winchester Ln Clayton, GA 30525 - Tract H",
+      "lat": 34.8610694,
+      "lng": -83.53803409999999,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=LB11%20%20066",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 1616337,
+      "owner": {
+        "names": [
+          "HOWARD CAROLYN S"
+        ],
+        "mailingAddress": "1559 N MORNINGSIDE DR NE, ATLANTA, GA 30306",
+        "phones": [
+          "(404) 277-5516",
+          "(404) 291-0307",
+          "(404) 876-8350",
+          "(770) 876-8350",
+          "(706) 782-7418"
+        ],
+        "emails": [
+          "CAROLYNH233@GMAIL.COM",
+          "CAROLYNHOWARD@MINDSPRING.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "8/1/1984",
+          "deedBookPage": "000F9 0308",
+          "salePrice": "$325,000",
+          "grantor": "\u2014",
+          "grantee": "HOWARD CAROLYN S"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "LARRY HOWARD",
+          "age": "85",
+          "relationship": "1559 N MORNINGSIDE DR NE, ATLANTA, GA, 30306",
+          "address": "(404) 219-3515 Mobile",
+          "phones": [
+            "(404) 861-7045",
+            "(770) 876-8350",
+            "(404) 876-8350",
+            "(404) 291-0307"
+          ]
+        }
+      ],
+      "photos": [
+        "images/LB11-066/photo-1.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 1",
+          "url": "images/LB11-066/deed-1.jpg"
+        }
+      ],
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HOWARD+CAROLYN+S&map_code=LB11++066&map_type=&logic_unique_key=LB11066-R-1551"
+    },
+    {
+      "id": "LB08 022",
+      "accountNumber": "LB08 022",
+      "title": "68 Fox Glove Ln Clarkesville, GA 30523 - LOT 2",
+      "lat": 34.8150164,
+      "lng": -83.5582096,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=LB08%20%20022",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 2077855,
+      "owner": {
+        "names": [
+          "MAY JACK HOUSE TRUST WITH TRUSTEES FORREST MAY JR",
+          "MARSHA MAY JANOFSKY"
+        ],
+        "mailingAddress": "1010 PATRIOT TRAIL, CUMMING, GA 30040",
+        "phones": [
+          "(770) 533-2925",
+          "(770) 614-1768",
+          "(678) 546-5999",
+          "(678) 428-4741",
+          "(678) 428-4742",
+          "(770) 513-7227",
+          "(678) 377-1277",
+          "(678) 377-0721",
+          "(778) 513-7227"
+        ],
+        "emails": [
+          "MARSHAJANOFSKY@GMAIL.COM",
+          "MJANOFSKY@GMAIL.COM",
+          "MATTHEWJANOFSKY@AOL.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "9/16/2019",
+          "deedBookPage": "P46 175",
+          "salePrice": "$0",
+          "grantor": "MAY JANICE JOHNSON",
+          "grantee": "MAY JACK HOUSE TRUST WITH FORREST"
+        },
+        {
+          "saleDate": "5/1/2004",
+          "deedBookPage": "00O26 0244",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "MAY JANICE JOHNSON"
+        },
+        {
+          "saleDate": "7/1/1998",
+          "deedBookPage": "0C018 0061",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "12/1/1995",
+          "deedBookPage": "00B16 0637",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "5/1/1968",
+          "deedBookPage": "000F4 0322",
+          "salePrice": "$5,000",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "MATTHEW JANOFSKY",
+          "age": "66",
+          "relationship": "Spouse",
+          "address": "1010 PATRIOT TRL, CUMMING, GA, 30040",
+          "phones": [
+            "(678) 428-4742",
+            "(678) 428-4741",
+            "(770) 513-7227",
+            "(678) 377-1277",
+            "(778) 513-7227"
+          ]
+        },
+        {
+          "name": "JANICE MAY",
+          "age": "99",
+          "relationship": "Parent",
+          "address": "4175 SARDIS CHURCH RD, BUFORD, GA, 30519",
+          "phones": [
+            "(770) 533-2925",
+            "(770) 614-1768",
+            "(678) 546-5999"
+          ]
+        },
+        {
+          "name": "FORREST MAY",
+          "age": "100",
+          "relationship": "Parent",
+          "address": "4175 SARDIS CHURCH RD, BUFORD, GA, 30519",
+          "phones": [
+            "(770) 614-1768",
+            "(678) 409-8078",
+            "(770) 614-1831"
+          ]
+        },
+        {
+          "name": "MICHAEL JANOFSKY",
+          "age": "35",
+          "relationship": "Child",
+          "address": "1140 ROSEWOOD DR, ALPHARETTA, GA, 30005",
+          "phones": [
+            "(678) 428-7728",
+            "(678) 428-4742",
+            "(770) 399-5591"
+          ]
+        },
+        {
+          "name": "FORREST MAY",
+          "age": "73",
+          "relationship": "Sibling",
+          "address": "4165 SARDIS CHURCH RD, BUFORD, GA, 30519",
+          "phones": [
+            "(678) 409-8078",
+            "(770) 614-1768"
+          ]
+        },
+        {
+          "name": "JAN MAY",
+          "age": "77",
+          "relationship": "Sibling",
+          "address": "154 TARA TRCE, MCDONOUGH, GA, 30252",
+          "phones": [
+            "(912) 660-4838",
+            "(678) 814-4145"
+          ]
+        },
+        {
+          "name": "JOYCE JANOFSKY",
+          "age": "91",
+          "relationship": "Other Relative",
+          "address": "374 HIDDEN POND RD, CLEVELAND, GA, 30528",
+          "phones": [
+            "(706) 865-3032"
+          ]
+        },
+        {
+          "name": "RANDELL MICKLER",
+          "age": "100",
+          "relationship": "Other Relative",
+          "address": "1498 DEMERE RD UNIT E2, SAINT SIMONS ISLAND, GA, 31522",
+          "phones": [
+            "(706) 769-7661",
+            "(912) 638-7731"
+          ]
+        },
+        {
+          "name": "MARILEE MAY",
+          "age": "70",
+          "relationship": "In-law",
+          "address": "4165 SARDIS CHURCH RD, BUFORD, GA, 30519",
+          "phones": [
+            "(404) 754-0570",
+            "(770) 614-1831"
+          ]
+        },
+        {
+          "name": "ROGER MAY",
+          "age": "84",
+          "relationship": "In-law",
+          "address": "231 S HAMPTON RD, HAMPTON, GA, 30228",
+          "phones": [
+            "(778) 946-3452"
+          ]
+        },
+        {
+          "name": "CYDNEY JANOFSKY",
+          "age": "36",
+          "relationship": "In-law",
+          "address": "1140 ROSEWOOD DR, ALPHARETTA, GA, 30005",
+          "phones": [
+            "(770) 313-7669",
+            "(770) 399-5591"
+          ]
+        },
+        {
+          "name": "LEONARD JANOFSKY",
+          "age": "96",
+          "relationship": "In-law",
+          "address": "1300 BENT CREEK RD, WATKINSVILLE, GA, 30677",
+          "phones": [
+            "(706) 865-3032",
+            "(706) 769-7661",
+            "(706) 769-8150"
+          ]
+        },
+        {
+          "name": "MARTHA DEWALD",
+          "age": "93",
+          "relationship": "In-law",
+          "address": "1121 ECHO BROOK TRL, WATKINSVILLE, GA, 30677",
+          "phones": [
+            "(706) 705-6199",
+            "(706) 769-7661"
+          ]
+        }
+      ],
+      "photos": [
+        "images/LB08-022/photo-1.jpg",
+        "images/LB08-022/photo-2.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 3",
+          "url": "images/LB08-022/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 3",
+          "url": "images/LB08-022/deed-2.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 3 of 3",
+          "url": "images/LB08-022/deed-3.jpg"
+        }
+      ],
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=MAY+JACK+HOUSE+TRUST+WITH+TRUSTEES&map_code=LB08++022&map_type=&logic_unique_key=LB08022-R-2040"
+    },
+    {
+      "id": "LB14A 001",
+      "accountNumber": "LB14A 001",
+      "title": "340 Fulton Rd, Tiger, GA 30576, LL 95 LD 5",
+      "lat": 34.808324,
+      "lng": -83.53753619999999,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=LB14A%20001",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 127087,
+      "owner": {
+        "names": [
+          "RICHIE ELAINE M"
+        ],
+        "mailingAddress": "2646 CARDINAL LAKE CIR, DULUTH, GA 30096",
+        "phones": [
+          "(678) 859-8287",
+          "(770) 476-1328",
+          "(770) 476-1329",
+          "(771) 476-1328",
+          "(706) 267-2151"
+        ],
+        "emails": [
+          "LANERICHIE@GMAIL.COM",
+          "LANE1535@AOL.COM",
+          "FRAZIERJERMAINE@YAHOO.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "5/1/1988",
+          "deedBookPage": "00K11 0673",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "RICHIE ELAINE M"
+        },
+        {
+          "saleDate": "12/1/1986",
+          "deedBookPage": "00O10 0070",
+          "salePrice": "$12,500",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "RUBEN RICHIE",
+          "age": "102",
+          "relationship": "Parent",
+          "address": "185B ATHA ST, LAWRENCEVILLE, GA, 30046",
+          "phones": [
+            "(706) 886-0531"
+          ]
+        },
+        {
+          "name": "BARRY RICHIE",
+          "age": "58",
+          "relationship": "Child",
+          "address": "39 CREEK CT, TOCCOA, GA, 30577",
+          "phones": [
+            "(706) 297-1064",
+            "(706) 244-5088",
+            "(706) 599-2869",
+            "(706) 886-6967"
+          ]
+        },
+        {
+          "name": "JESSICA HANDWORK",
+          "age": "52",
+          "relationship": "Child",
+          "address": "491 MULKEY RD, TOCCOA, GA, 30577",
+          "phones": [
+            "(678) 859-8285",
+            "(706) 594-3212",
+            "(706) 886-7511",
+            "(706) 886-4346"
+          ]
+        },
+        {
+          "name": "HEATHER RICHIE",
+          "age": "45",
+          "relationship": "Child",
+          "address": "15257 AMBERLY DR STE 478, TAMPA, FL, 33647",
+          "phones": [
+            "(404) 886-9833",
+            "(770) 476-1328"
+          ]
+        },
+        {
+          "name": "RICHARD RICHIE",
+          "age": "71",
+          "relationship": "Sibling",
+          "address": "95 PRATHER PARK DR APT 108, TOCCOA, GA, 30577",
+          "phones": [
+            "(706) 533-2349",
+            "(678) 442-1609",
+            "(770) 962-4209"
+          ]
+        },
+        {
+          "name": "DAN RICHIE",
+          "age": "78",
+          "relationship": "Other Relative",
+          "address": "2646 CARDINAL LAKE CIR, DULUTH, GA, 30096",
+          "phones": [
+            "(678) 859-6869",
+            "(770) 476-1328",
+            "(771) 476-1328"
+          ]
+        },
+        {
+          "name": "SANDRA RICHIE",
+          "age": "74",
+          "relationship": "Other Relative",
+          "address": "39 CREEK CT, TOCCOA, GA, 30577",
+          "phones": [
+            "(706) 244-6167",
+            "(706) 599-1328",
+            "(706) 244-9185",
+            "(706) 282-1361",
+            "(706) 491-1695"
+          ]
+        },
+        {
+          "name": "LYJERIAL RICHIE",
+          "age": "52",
+          "relationship": "Other Relative",
+          "address": "39 CREEK CT, TOCCOA, GA, 30577",
+          "phones": [
+            "(706) 391-2043",
+            "(706) 886-6967",
+            "(762) 436-8495",
+            "(706) 886-2159"
+          ]
+        },
+        {
+          "name": "BENNY RICHIE",
+          "age": "72",
+          "relationship": "Other Relative",
+          "address": "857 N CLAYTON ST, LAWRENCEVILLE, GA, 30046",
+          "phones": [
+            "(678) 794-2979",
+            "(770) 339-7944",
+            "(678) 442-1609",
+            "(770) 513-0464"
+          ]
+        },
+        {
+          "name": "TAYLOR RICHIE",
+          "age": "32",
+          "relationship": "Other Relative",
+          "address": "166 GILLIFLOWER PARK, SUWANEE, GA, 30024",
+          "phones": [
+            "(770) 875-0738"
+          ]
+        },
+        {
+          "name": "ALEXANDER RICHIE",
+          "age": "33",
+          "relationship": "Other Relative",
+          "address": "39 CREEK CT, TOCCOA, GA, 30577",
+          "phones": [
+            "(470) 765-7062",
+            "(706) 244-5088",
+            "(706) 282-1361",
+            "(706) 391-4636"
+          ]
+        },
+        {
+          "name": "MILDRED RICHIE",
+          "age": "101",
+          "relationship": "Other Relative",
+          "address": "2646 CARDINAL LAKE CIR, DULUTH, GA, 30096",
+          "phones": [
+            "(706) 886-0531"
+          ]
+        },
+        {
+          "name": "KHALED ZEGGAI",
+          "age": "52",
+          "relationship": "In-law",
+          "address": "351 TURK ST APT 1216, SAN FRANCISCO, CA, 94102",
+          "phones": [
+            "(415) 240-1836",
+            "(732) 423-8898",
+            "(415) 441-8732"
+          ]
+        },
+        {
+          "name": "JOHNA BEAN",
+          "age": "53",
+          "relationship": "In-law",
+          "address": "1070 N ESHMAN AVE, WEST POINT, MS, 39773",
+          "phones": [
+            "(662) 275-1048",
+            "(662) 275-0144",
+            "(662) 275-3342",
+            "(662) 605-3329"
+          ]
+        },
+        {
+          "name": "MICHAEL HANDWORK",
+          "age": "56",
+          "relationship": "In-law",
+          "address": "491 MULKEY RD, TOCCOA, GA, 30577",
+          "phones": [
+            "(706) 594-3212",
+            "(678) 409-3689",
+            "(706) 367-8932",
+            "(706) 886-4346"
+          ]
+        },
+        {
+          "name": "BARBARA HAYWOOD",
+          "age": "69",
+          "relationship": "In-law",
+          "address": "438 SIMMONS ST, LAWRENCEVILLE, GA, 30046",
+          "phones": [
+            "(770) 572-1858",
+            "(678) 442-1609",
+            "(770) 513-0464"
+          ]
+        }
+      ],
+      "photos": [],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 1",
+          "url": "images/LB14A-001/deed-1.jpg"
+        }
+      ],
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=RICHIE+ELAINE+M&map_code=LB14A+001&map_type=&logic_unique_key=LB14A001-R-2249"
+    },
+    {
+      "id": "LN04 106 L",
+      "accountNumber": "LN04 106 L",
+      "title": "4243 Seed Lake Rd, Lakemont, GA 30552 - LEASE 639",
+      "lat": 34.7574628,
+      "lng": -83.5002069,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&Q=684328949&KeyValue=LN04++106++L",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 55769,
+      "owner": {
+        "names": [
+          "DUKES ROBERT A DUKES LYNN F"
+        ],
+        "mailingAddress": "3015 BOLES FARM LANE, DULUTH, GA 30096",
+        "phones": [
+          "(706) 615-1116",
+          "(770) 623-4387",
+          "(706) 782-2738",
+          "(404) 395-9967",
+          "(404) 395-9967",
+          "(404) 790-9565",
+          "(770) 623-4387",
+          "(404) 325-4084",
+          "(415) 431-9054"
+        ],
+        "emails": [
+          "RADUKES82@GMAIL.COM",
+          "FLEETWOODDANCE@YAHOO.COM",
+          "LYNNANDBOBDUKES@AOL.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "7/10/2015",
+          "deedBookPage": "B42 344",
+          "salePrice": "$0",
+          "grantor": "DUKES ROBERT A",
+          "grantee": "DUKES ROBERT A"
+        },
+        {
+          "saleDate": "10/1/2000",
+          "deedBookPage": "00E20 0075",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "DUKES ROBERT A"
+        },
+        {
+          "saleDate": "10/1/1980",
+          "deedBookPage": "000S7 0438",
+          "salePrice": "$17,900",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "CAROL DUKES",
+          "age": "69",
+          "relationship": "Spouse",
+          "address": "3015 BOLES FARM LN, DULUTH, GA, 30096",
+          "phones": [
+            "(404) 395-9967",
+            "(404) 790-9565",
+            "(770) 623-4387",
+            "(404) 325-4084"
+          ]
+        },
+        {
+          "name": "ROBERT DUKES",
+          "age": "99",
+          "relationship": "Parent",
+          "address": "683 HAMPTON CR, BELVEDERE, SC, 29841",
+          "phones": []
+        },
+        {
+          "name": "JUNE DUKES",
+          "age": "102",
+          "relationship": "Parent",
+          "address": "105 AUTUMN GLEN CIR, FAYETTEVILLE, GA, 30215",
+          "phones": [
+            "(404) 993-2614",
+            "(770) 622-7644"
+          ]
+        },
+        {
+          "name": "ROBERT DUKES",
+          "age": "32",
+          "relationship": "Child",
+          "address": "123 ACADEMY LN, CANTON, GA, 30114",
+          "phones": [
+            "(404) 395-9967"
+          ]
+        },
+        {
+          "name": "ALEXIS DUKES",
+          "age": "25",
+          "relationship": "Child",
+          "address": "1107 WORTHSHIRE ST, HOUSTON, TX, 77008",
+          "phones": [
+            "(404) 310-1620"
+          ]
+        },
+        {
+          "name": "ANN WHITLEY",
+          "age": "64",
+          "relationship": "Sibling",
+          "address": "170 ZOIE CT, FAYETTEVILLE, GA, 30215",
+          "phones": [
+            "(678) 768-9985",
+            "(770) 460-5847",
+            "(778) 460-5847"
+          ]
+        },
+        {
+          "name": "TAMIKO DUKES",
+          "age": "49",
+          "relationship": "Other Relative",
+          "address": "4529 IROQUOIS TRL, DULUTH, GA, 30096",
+          "phones": []
+        },
+        {
+          "name": "JAMES FLEETWOOD",
+          "age": "65",
+          "relationship": "In-law",
+          "address": "1019 LOCUST AVE SE, HUNTSVILLE, AL, 35801",
+          "phones": [
+            "(404) 309-9419",
+            "(404) 309-7726",
+            "(706) 782-5914",
+            "(404) 309-7735"
+          ]
+        },
+        {
+          "name": "ROBERT FLEETWOOD",
+          "age": "88",
+          "relationship": "In-law",
+          "address": "37 CLOVER ST, SAN FRANCISCO, CA, 94114",
+          "phones": [
+            "(415) 798-1751",
+            "(706) 714-2186",
+            "(415) 431-9054",
+            "(415) 798-9817"
+          ]
+        },
+        {
+          "name": "ROBERT FLEETWOOD",
+          "age": "63",
+          "relationship": "In-law",
+          "address": "3722 STRATHMORE DR, DULUTH, GA, 30096",
+          "phones": [
+            "(404) 925-9352",
+            "(404) 550-2134",
+            "(404) 325-4084",
+            "(706) 782-5914",
+            "(770) 939-1517"
+          ]
+        },
+        {
+          "name": "TRAFTON FLEETWOOD",
+          "age": "76",
+          "relationship": "In-law",
+          "address": "2926 BLACKWOOD RD, DECATUR, GA, 30033",
+          "phones": [
+            "(404) 245-5532",
+            "(404) 325-4084",
+            "(706) 782-5914",
+            "(302) 832-1965",
+            "(919) 734-5063"
+          ]
+        },
+        {
+          "name": "CHARLES WHITLEY",
+          "age": "66",
+          "relationship": "In-law",
+          "address": "170 ZOIE CT, FAYETTEVILLE, GA, 30215",
+          "phones": [
+            "(770) 843-5847",
+            "(770) 460-5847"
+          ]
+        },
+        {
+          "name": "THOMAS FLEETWOOD",
+          "age": "72",
+          "relationship": "In-law",
+          "address": "111 TREY DR, GOLDSBORO, NC, 27530",
+          "phones": [
+            "(919) 621-1482",
+            "(706) 782-5914",
+            "(404) 325-4084",
+            "(252) 222-7658"
+          ]
+        },
+        {
+          "name": "CHRISTINE DUKES",
+          "age": "32",
+          "relationship": "In-law",
+          "address": "123 ACADEMY LN, CANTON, GA, 30114",
+          "phones": [
+            "(229) 322-0815"
+          ]
+        },
+        {
+          "name": "SAMUEL SHAPIRO",
+          "age": "26",
+          "relationship": "In-law",
+          "address": "1107 WORTHSHIRE ST, HOUSTON, TX, 77008",
+          "phones": [
+            "(225) 329-3332",
+            "(713) 485-6553",
+            "(713) 668-3938"
+          ]
+        },
+        {
+          "name": "CAROLYN FLEETWOOD",
+          "age": "96",
+          "relationship": "In-law",
+          "address": "3722 STRATHMORE DR, DULUTH, GA, 30096",
+          "phones": [
+            "(404) 925-9351",
+            "(404) 550-2134",
+            "(404) 325-4084",
+            "(706) 782-5914"
+          ]
+        }
+      ],
+      "photos": [
+        "images/LN04-106-L/photo-1.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 2",
+          "url": "images/LN04-106-L/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 2",
+          "url": "images/LN04-106-L/deed-2.jpg"
+        }
+      ],
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=DUKES+ROBERT+A&map_code=LN04++106++L&map_type=&logic_unique_key=LN04106L-R-2495",
+      "notes": "Following information below is from Robert Dukes"
+    },
+    {
+      "id": "LB07 053 L",
+      "accountNumber": "LB07 053 L",
+      "title": "104 Chiggerchaw Ridge Rd, Clarkesville, GA 30523 - Lease 882",
+      "lat": 34.8227635,
+      "lng": -83.5614116,
+      "locationApproximate": false,
+      "propertyLink": "https://www.zillow.com/homedetails/104-Chiggerchaw-Ridge-Rd-Clarkesville-GA-30523/110825283_zpid/",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 327581,
+      "owner": {
+        "names": [
+          "SIMPSON RICHARD"
+        ],
+        "mailingAddress": "1014 NATALIE LN, SMYRNA, GA 30082",
+        "phones": [
+          "(770) 331-2091",
+          "(678) 453-6930",
+          "(678) 513-5008"
+        ],
+        "emails": [
+          "RICHSIMPSON@HOTMAIL.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "3/29/2017",
+          "deedBookPage": "W43 180",
+          "salePrice": "$0",
+          "grantor": "BABCOCK SIMPSON HURLEY LLC",
+          "grantee": "SIMPSON"
+        },
+        {
+          "saleDate": "5/1/1980",
+          "deedBookPage": "000N7 0141",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "BABCOCK SIMPSON HURLEY LLC"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "JUDY SIMPSON",
+          "age": "80",
+          "relationship": "Parent",
+          "address": "104 CHIGGERCHAW RIDGE RD, CLARKESVILLE, GA, 30523",
+          "phones": [
+            "(770) 435-2875",
+            "(850) 492-2744"
+          ]
+        },
+        {
+          "name": "MICHAEL HURLEY",
+          "age": "84",
+          "relationship": "Parent",
+          "address": "294 SHANKLE HTS, COMMERCE, GA, 30529",
+          "phones": [
+            "(678) 983-3020",
+            "(706) 540-6420",
+            "(770) 435-2875",
+            "(850) 492-2744",
+            "(770) 435-4497"
+          ]
+        },
+        {
+          "name": "BRIAN HURLEY",
+          "age": "55",
+          "relationship": "Sibling",
+          "address": "1471 COOPER GIN RD, STATHAM, GA, 30666",
+          "phones": [
+            "(404) 925-4269",
+            "(770) 725-2172"
+          ]
+        },
+        {
+          "name": "MICHAEL HURLEY",
+          "age": "58",
+          "relationship": "Sibling",
+          "address": "1340 RIVERWALK RD, BISHOP, GA, 30621",
+          "phones": [
+            "(770) 889-7162",
+            "(706) 467-9290"
+          ]
+        },
+        {
+          "name": "ADAM HURLEY",
+          "age": "49",
+          "relationship": "Other Relative",
+          "address": "18610 W 64TH ST, SHAWNEE, KS, 66218",
+          "phones": [
+            "(770) 318-9961",
+            "(913) 808-5229",
+            "(913) 422-3588"
+          ]
+        },
+        {
+          "name": "LESLEY HURLEY",
+          "age": "56",
+          "relationship": "In-law",
+          "address": "1340 RIVERWALK RD, BISHOP, GA, 30621",
+          "phones": [
+            "(404) 425-4400",
+            "(404) 425-4409",
+            "(404) 425-4401",
+            "(404) 425-4386",
+            "(404) 425-4356"
+          ]
+        },
+        {
+          "name": "MARYBETH HURLEY",
+          "age": "60",
+          "relationship": "In-law",
+          "address": "1847 SHORE DR S APT 815, SAINT PETERSBURG, FL, 33707",
+          "phones": [
+            "(770) 329-7110",
+            "(404) 434-1049",
+            "(678) 428-8435",
+            "(770) 329-9842"
+          ]
+        },
+        {
+          "name": "NICOLE HURLEY",
+          "age": "55",
+          "relationship": "In-law",
+          "address": "410 UPPER EAST AVE, SAVANNAH, GA, 31401",
+          "phones": [
+            "(404) 925-4269",
+            "(770) 725-2172"
+          ]
+        }
+      ],
+      "photos": [],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 6",
+          "url": "images/LB07-053-L/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 6",
+          "url": "images/LB07-053-L/deed-2.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 3 of 6",
+          "url": "images/LB07-053-L/deed-3.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 4 of 6",
+          "url": "images/LB07-053-L/deed-4.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 5 of 6",
+          "url": "images/LB07-053-L/deed-5.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 6 of 6",
+          "url": "images/LB07-053-L/deed-6.jpg"
+        }
+      ],
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SIMPSON+RICHARD&map_code=LB07++053++L&map_type=&logic_unique_key=LB07053L-R-1973"
     }
   ]
 }
