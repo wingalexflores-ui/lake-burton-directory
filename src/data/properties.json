@@ -19403,6 +19403,298 @@
       ],
       "category": "non-lake",
       "notes": "Both owners (Dorothy Cochran and Nancy W Cabe) show as deceased in skip-trace."
+    },
+    {
+      "id": "LB14 055",
+      "accountNumber": "LB14 055",
+      "title": "Bridge Creek Rd, Tiger, GA 30576 (No exact address) - LD 5 LL 95",
+      "lat": 34.815768,
+      "lng": -83.5297266,
+      "locationApproximate": true,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=LB14%20%20055",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=STERLING+TRUST+FBO+NEVA+LOGAN&map_code=LB14++055&map_type=&logic_unique_key=LB14055-R-2308",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 75000,
+      "owner": {
+        "names": [
+          "STERLING TRUST FBO NEVA LOGAN"
+        ],
+        "mailingAddress": "7916 BRIDGE CREEK RD, TIGER, GA 30576",
+        "phones": [
+          "(404) 374-6120",
+          "(404) 374-6122",
+          "(706) 564-8117",
+          "(706) 782-0291",
+          "(770) 632-6696",
+          "(641) 799-9846",
+          "(770) 329-9258"
+        ],
+        "emails": [
+          "LOGAN.NEVA@GMAIL.COM",
+          "LNEVA@BELLSOUTH.NET",
+          "NEVA.LOGAN@AOL.COM",
+          "MEGANJLOGAN@GMAIL.COM",
+          "JEFF.LOGAN@EMAIL.COM",
+          "JEFF.LOGAN@NETZERO.NET",
+          "KNEVA.LOGAN7@AOL.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "9/1/2003",
+          "deedBookPage": "00I25 0424",
+          "salePrice": "$45,000",
+          "grantor": "—",
+          "grantee": "STERLING TRUST CO"
+        },
+        {
+          "saleDate": "12/1/1967",
+          "deedBookPage": "000D4 0455",
+          "salePrice": "$1,100",
+          "grantor": "—",
+          "grantee": "—"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "JEFFREY LOGAN",
+          "age": "66",
+          "relationship": "Unknown",
+          "address": "406 DILLSBORO RD, SYLVA, NC, 28779",
+          "phones": [
+            "(404) 454-3043",
+            "(828) 331-7004",
+            "(770) 632-1218",
+            "(770) 632-6696"
+          ]
+        },
+        {
+          "name": "HALEY LOGAN",
+          "age": "30",
+          "relationship": "Child",
+          "address": "1576 JOHNSON RD NW, ATLANTA, GA, 30318",
+          "phones": [
+            "(404) 454-1763",
+            "(404) 218-5566"
+          ]
+        },
+        {
+          "name": "MEGAN LOGAN",
+          "age": "35",
+          "relationship": "Child",
+          "address": "3015 CALDWELL RD NE, ATLANTA, GA, 30319",
+          "phones": [
+            "(404) 454-2108",
+            "(404) 454-3043",
+            "(404) 907-4894"
+          ]
+        },
+        {
+          "name": "BENJAMIN LOGAN",
+          "age": "33",
+          "relationship": "Child",
+          "address": "3300 RIVERWOOD PKWY SE STE 1075, ATLANTA, GA, 30339",
+          "phones": [
+            "(404) 454-6759"
+          ]
+        },
+        {
+          "name": "ELIZABETH MALANOSKI",
+          "age": "63",
+          "relationship": "Other Relative",
+          "address": "367 CONNEMARA XING, LAWRENCEVILLE, GA, 30044",
+          "phones": [
+            "(770) 596-7384",
+            "(770) 923-9650",
+            "(778) 923-9650"
+          ]
+        },
+        {
+          "name": "DANIEL CALUGAR",
+          "age": "72",
+          "relationship": "Other Relative",
+          "address": "1 HUGHES CENTER DR UNIT 1404, LAS VEGAS, NV, 89169",
+          "phones": [
+            "(702) 302-3204",
+            "(208) 726-6421",
+            "(702) 730-2072"
+          ]
+        },
+        {
+          "name": "CAREY LOGAN",
+          "age": "67",
+          "relationship": "In-law",
+          "address": "214 BRADFORD CREEK TRL, DULUTH, GA, 30096",
+          "phones": [
+            "(404) 322-5130",
+            "(770) 447-9520",
+            "(770) 910-7411",
+            "(404) 633-6018"
+          ]
+        },
+        {
+          "name": "VIRGINIA LOGAN",
+          "age": "95",
+          "relationship": "In-law",
+          "address": "214 BRADFORD CREEK TRL, DULUTH, GA, 30096",
+          "phones": [
+            "(317) 294-6029",
+            "(678) 336-9484",
+            "(770) 447-9520",
+            "(317) 802-0064"
+          ]
+        },
+        {
+          "name": "LEE GROSS",
+          "age": "30",
+          "relationship": "In-law",
+          "address": "1608 DUNCAN DR NW, ATLANTA, GA, 30318",
+          "phones": [
+            "(678) 662-4054"
+          ]
+        },
+        {
+          "name": "PREMNATH ANANTHAN",
+          "age": "34",
+          "relationship": "In-law",
+          "address": "7916 BRIDGE CREEK RD, TIGER, GA, 30576",
+          "phones": [
+            "(561) 313-5921"
+          ]
+        },
+        {
+          "name": "A LOGAN",
+          "age": "101",
+          "relationship": "In-law",
+          "address": "4248 AUTUMN HILL DR, STONE MOUNTAIN, GA, 30083",
+          "phones": []
+        }
+      ],
+      "photos": [],
+      "documents": [
+        {
+          "label": "Warranty Deed",
+          "url": "images/LB14-055/deed-1.jpg"
+        },
+        {
+          "label": "Warranty Deed — Exhibit A",
+          "url": "images/LB14-055/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "016 044A",
+      "accountNumber": "016 044A",
+      "title": "No exact address, LL86 LD5 TR 1",
+      "lat": 34.8078943,
+      "lng": -83.5403978,
+      "locationApproximate": true,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=016%20%20%20044A",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=GUTHRIE+ELEANOR+G&map_code=016+++044A&map_type=&logic_unique_key=016044A-R-17360",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 99000,
+      "owner": {
+        "names": [
+          "GUTHRIE ELEANOR G"
+        ],
+        "mailingAddress": "300 HUNT CLIFF CT, ATLANTA, GA 30350",
+        "phones": [
+          "(912) 758-1942",
+          "(778) 319-7254",
+          "(770) 642-7254"
+        ],
+        "emails": []
+      },
+      "salesHistory": [
+        {
+          "saleDate": "12/1/2004",
+          "deedBookPage": "00J27 0653",
+          "salePrice": "$100,000",
+          "grantor": "—",
+          "grantee": "GUTHRIE ELEANOR G"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "KENNETH GUTHRIE",
+          "age": "78",
+          "relationship": "Spouse",
+          "address": "300 HUNTCLIFF CT, ATLANTA, GA, 30350",
+          "phones": [
+            "(404) 372-6621",
+            "(912) 758-1942",
+            "(770) 642-7254"
+          ]
+        },
+        {
+          "name": "JOSEPH GREENE",
+          "age": "114",
+          "relationship": "Parent",
+          "address": "4011 ROSWELL RD NE APT D3, ATLANTA, GA, 30342",
+          "phones": []
+        },
+        {
+          "name": "EARLINE GREENE",
+          "age": "103",
+          "relationship": "Parent",
+          "address": "300 HUNTCLIFF CT, ATLANTA, GA, 30350",
+          "phones": [
+            "(404) 261-8894"
+          ]
+        },
+        {
+          "name": "ERIC GUTHRIE",
+          "age": "49",
+          "relationship": "Child",
+          "address": "1612 FOREST TRL, AUSTIN, TX, 78703",
+          "phones": [
+            "(404) 992-2663"
+          ]
+        },
+        {
+          "name": "JOHN GUTHRIE",
+          "age": "42",
+          "relationship": "Child",
+          "address": "105 ASBURY DR NW, ROME, GA, 30165",
+          "phones": [
+            "(678) 517-9653",
+            "(912) 758-1942",
+            "(770) 642-7254"
+          ]
+        },
+        {
+          "name": "GUINEVERE GUTHRIE",
+          "age": "47",
+          "relationship": "In-law",
+          "address": "650 BLUFFVIEW DR, WIMBERLEY, TX, 78676",
+          "phones": [
+            "(678) 644-2096",
+            "(404) 285-2672"
+          ]
+        }
+      ],
+      "photos": [],
+      "documents": [
+        {
+          "label": "Warranty Deed — Page 1 of 2",
+          "url": "images/016-044A/deed-1.jpg"
+        },
+        {
+          "label": "Warranty Deed — Page 2 of 2",
+          "url": "images/016-044A/deed-2.jpg"
+        },
+        {
+          "label": "Warranty Deed — Exhibit A, Page 1 of 2",
+          "url": "images/016-044A/deed-3.jpg"
+        },
+        {
+          "label": "Warranty Deed — Exhibit A, Page 2 of 2",
+          "url": "images/016-044A/deed-4.jpg"
+        }
+      ],
+      "category": "non-lake",
+      "notes": "Deed references Land Lots 86 & 95, 5th Land District, Rabun County; conveyed subject to Lake Burton Properties covenants recorded in Plat Book 13, Page 73."
     }
   ]
 }
