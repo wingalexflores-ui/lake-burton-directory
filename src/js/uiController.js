@@ -216,9 +216,14 @@ export class UIController {
   // ---------------------------------------------------------------- directory
   renderDirectory(properties) {
     const { directoryList } = this.els;
-    const sorted = [...properties].sort((a, b) => a.title.localeCompare(b.title));
     const notedIds = new Set(Object.keys(this._allSavedNotes()));
-    directoryList.innerHTML = sorted.map(p => `
+
+    const groups = [
+      { key: 'lake', label: 'Lake Properties' },
+      { key: 'non-lake', label: 'Non-Lake Properties' },
+    ];
+
+    const itemHtml = (p) => `
       <li>
         <button class="directory-item" data-id="${escapeHtml(p.id)}">
           <div class="di-title">${escapeHtml(p.title)} ${notedIds.has(p.id) ? '<span class="note-dot" title="Has a saved note">📝</span>' : ''}</div>
@@ -226,8 +231,23 @@ export class UIController {
             <span>${escapeHtml(p.accountNumber)}</span>
           </div>
         </button>
-      </li>
-    `).join('') || `<li class="muted-note" style="padding:12px 4px; list-style:none;">No properties match your filters.</li>`;
+      </li>`;
+
+    let html = '';
+    let anyRendered = false;
+    for (const group of groups) {
+      const items = properties
+        .filter(p => (p.category || 'lake') === group.key)
+        .sort((a, b) => a.title.localeCompare(b.title));
+      if (!items.length) continue;
+      anyRendered = true;
+      html += `<li class="directory-group-heading" role="presentation">${escapeHtml(group.label)}</li>`;
+      html += items.map(itemHtml).join('');
+    }
+
+    directoryList.innerHTML = anyRendered
+      ? html
+      : `<li class="muted-note" style="padding:12px 4px; list-style:none;">No properties match your filters.</li>`;
 
     directoryList.querySelectorAll('.directory-item').forEach(btn => {
       btn.addEventListener('click', () => this.onSelect(btn.dataset.id));

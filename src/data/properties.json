@@ -323,7 +323,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB09-081-L/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB09 095 L",
@@ -488,7 +489,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB09-095-L/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB09 064 L",
@@ -632,7 +634,8 @@
           "label": "Deed \u2014 Page 7 of 7",
           "url": "images/LB09-064-L/deed-7.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB09 065 L",
@@ -786,7 +789,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB09-065-L/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB09 047A",
@@ -970,7 +974,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB09-047A/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB09 073 L",
@@ -1103,7 +1108,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB09-073-L/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB15 001 L",
@@ -1332,7 +1338,8 @@
           "label": "Deed \u2014 Page 6 of 6",
           "url": "images/LB15-001-L/deed-6.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB15 048 L",
@@ -1413,7 +1420,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB15-048-L/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB14 012",
@@ -1549,7 +1557,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB14-012/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB14 008",
@@ -1714,7 +1723,8 @@
           "label": "Deed \u2014 Page 3 of 3",
           "url": "images/LB14-008/deed-3.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB14 001",
@@ -1848,7 +1858,8 @@
         }
       ],
       "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=PETRIE+LESTER+M+JR+%26+EDITH+PETRIE+HAWKIN&map_code=LB14++001&map_type=&logic_unique_key=LB14001-R-2371",
-      "notes": "Unable to search Edith Petrie Hawkin in smartskip."
+      "notes": "Unable to search Edith Petrie Hawkin in smartskip.",
+      "category": "lake"
     },
     {
       "id": "LB14 124 L",
@@ -1954,7 +1965,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB14-124-L/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB14A 003",
@@ -2173,7 +2185,8 @@
           "url": "images/LB14A-003/deed-1.jpg"
         }
       ],
-      "notes": "There is another Michael Handwork which is the parent and may be the possible owner/contact person."
+      "notes": "There is another Michael Handwork which is the parent and may be the possible owner/contact person.",
+      "category": "lake"
     },
     {
       "id": "LB14A 007A",
@@ -2307,7 +2320,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB14A-007A/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB14A 025",
@@ -2423,7 +2437,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB14A-025/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB06 085 L",
@@ -2564,7 +2579,8 @@
           "label": "Deed \u2014 Page 6 of 6",
           "url": "images/LB06-085-L/deed-6.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB14 063",
@@ -3420,7 +3436,8 @@
           "label": "Deed \u2014 Page 3 of 3",
           "url": "images/LB14-063/deed-3.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB06 073 L",
@@ -3589,7 +3606,8 @@
           "url": "images/LB06-073-L/deed-7.jpg"
         }
       ],
-      "notes": "Unable to skiptrace Kimberly Hoipkemier, skiptraced Janet Campbell instead."
+      "notes": "Unable to skiptrace Kimberly Hoipkemier, skiptraced Janet Campbell instead.",
+      "category": "lake"
     },
     {
       "id": "LB11 015 L",
@@ -3716,7 +3734,8 @@
           "label": "Deed \u2014 Page 5 of 5",
           "url": "images/LB11-015-L/deed-5.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB11 067 L",
@@ -3937,7 +3956,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB11-067-L/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB05 076 L",
@@ -4127,7 +4147,8 @@
           "label": "Deed \u2014 Page 8 of 8",
           "url": "images/LB05-076-L/deed-8.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB05 066 L",
@@ -4231,7 +4252,8 @@
           "label": "Deed \u2014 Page 9 of 9",
           "url": "images/LB05-066-L/deed-9.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB07 117 L",
@@ -4347,7 +4369,8 @@
           "url": "images/LB07-117-L/deed-6.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=RAND+EDGAR+O&map_code=LB07++117++L&map_type=&logic_unique_key=LB07117L-R-2410"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=RAND+EDGAR+O&map_code=LB07++117++L&map_type=&logic_unique_key=LB07117L-R-2410",
+      "category": "lake"
     },
     {
       "id": "LB07 121 L",
@@ -4623,7 +4646,8 @@
           "url": "images/LB07-121-L/deed-7.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BAZEMORE+ROBERT+W+%26+PAMELA+W&map_code=LB07++121++L&map_type=&logic_unique_key=LB07121L-R-2414"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BAZEMORE+ROBERT+W+%26+PAMELA+W&map_code=LB07++121++L&map_type=&logic_unique_key=LB07121L-R-2414",
+      "category": "lake"
     },
     {
       "id": "LB05 049 L",
@@ -4782,7 +4806,8 @@
           "url": "images/LB05-049-L/deed-6.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SERVINE+MARY+SUE+TRUST&map_code=LB05++049++L&map_type=&logic_unique_key=LB05049L-R-1675"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SERVINE+MARY+SUE+TRUST&map_code=LB05++049++L&map_type=&logic_unique_key=LB05049L-R-1675",
+      "category": "lake"
     },
     {
       "id": "LB01 086",
@@ -5117,7 +5142,8 @@
           "url": "images/LB01-086/deed-2.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=STRICKLAND+ELIZABETH+HICKLIN&map_code=LB01++086&map_type=&logic_unique_key=LB01086-R-1750"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=STRICKLAND+ELIZABETH+HICKLIN&map_code=LB01++086&map_type=&logic_unique_key=LB01086-R-1750",
+      "category": "lake"
     },
     {
       "id": "LB05 095 L",
@@ -5309,7 +5335,8 @@
           "url": "images/LB05-095-L/deed-2.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HARDMAN+MARY+T+%26+SAM+TALMADGE+HARDMAN&map_code=LB05++095++L&map_type=&logic_unique_key=LB05095L-R-1564"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HARDMAN+MARY+T+%26+SAM+TALMADGE+HARDMAN&map_code=LB05++095++L&map_type=&logic_unique_key=LB05095L-R-1564",
+      "category": "lake"
     },
     {
       "id": "LB06 015 L",
@@ -5523,7 +5550,8 @@
           "url": "images/LB06-015-L/deed-20.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BAGWELL+SANDRA+LEA+TRUSTEE+OF&map_code=LB06++015++L&map_type=&logic_unique_key=LB06015L-R-1801"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BAGWELL+SANDRA+LEA+TRUSTEE+OF&map_code=LB06++015++L&map_type=&logic_unique_key=LB06015L-R-1801",
+      "category": "lake"
     },
     {
       "id": "LB14A 019",
@@ -5676,7 +5704,8 @@
           "url": "images/LB14A-019/deed-3.jpg"
         }
       ],
-      "photos": []
+      "photos": [],
+      "category": "lake"
     },
     {
       "id": "LB14A 020",
@@ -5829,7 +5858,8 @@
           "url": "images/LB14A-020/deed-3.jpg"
         }
       ],
-      "photos": []
+      "photos": [],
+      "category": "lake"
     },
     {
       "id": "LB14A 021",
@@ -5960,7 +5990,8 @@
           "url": "images/LB14A-021/deed-3.jpg"
         }
       ],
-      "photos": []
+      "photos": [],
+      "category": "lake"
     },
     {
       "id": "LB14A 022",
@@ -6113,7 +6144,8 @@
           "url": "images/LB14A-022/deed-3.jpg"
         }
       ],
-      "photos": []
+      "photos": [],
+      "category": "lake"
     },
     {
       "id": "LB07 120 L",
@@ -6367,7 +6399,8 @@
           "label": "Deed \u2014 Page 12 of 12",
           "url": "images/LB07-120-L/deed-12.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB04 038 L",
@@ -6644,7 +6677,8 @@
           "label": "Deed \u2014 Page 3 of 3",
           "url": "images/LB04-038-L/deed-3.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB07 112 L",
@@ -6844,7 +6878,8 @@
           "url": "images/LB07-112-L/deed-2.jpg"
         }
       ],
-      "notes": "Property may be in care of Virginia Forbes (Child) who is listed in his possible relatives."
+      "notes": "Property may be in care of Virginia Forbes (Child) who is listed in his possible relatives.",
+      "category": "lake"
     },
     {
       "id": "LB06 058 L",
@@ -6942,7 +6977,8 @@
           "label": "Deed \u2014 Page 7 of 7",
           "url": "images/LB06-058-L/deed-7.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB07 103 L",
@@ -7103,7 +7139,8 @@
           "url": "images/LB07-103-L/deed-1.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=DASGUPTA+AMITAVA+MICHAEL+TRUST&map_code=LB07++103++L&map_type=&logic_unique_key=LB07103L-R-2397"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=DASGUPTA+AMITAVA+MICHAEL+TRUST&map_code=LB07++103++L&map_type=&logic_unique_key=LB07103L-R-2397",
+      "category": "lake"
     },
     {
       "id": "LB08 061 L",
@@ -7349,7 +7386,8 @@
           "label": "Deed \u2014 Page 6 of 6",
           "url": "images/LB08-061-L/deed-6.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB01 087",
@@ -7643,7 +7681,8 @@
           "url": "images/LB01-087/deed-3.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=WATSON+WILLIAM+WALKER+%26+LUTECIA+PROCTOR&map_code=LB01++087&map_type=&logic_unique_key=LB01087-R-1749"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=WATSON+WILLIAM+WALKER+%26+LUTECIA+PROCTOR&map_code=LB01++087&map_type=&logic_unique_key=LB01087-R-1749",
+      "category": "lake"
     },
     {
       "id": "LB07 093 L",
@@ -7756,7 +7795,8 @@
           "url": "images/LB07-093-L/deed-6.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=JOBE+WARREN+Y+JR&map_code=LB07++093++L&map_type=&logic_unique_key=LB07093L-R-2387"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=JOBE+WARREN+Y+JR&map_code=LB07++093++L&map_type=&logic_unique_key=LB07093L-R-2387",
+      "category": "lake"
     },
     {
       "id": "LB01 044",
@@ -7951,7 +7991,8 @@
         }
       ],
       "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SAUNDERS+JOHN+HARVEY+TRUSTEE+OF+THE+EVE&map_code=LB01++044&map_type=&logic_unique_key=LB01044-R-1722",
-      "notes": "Possible contact is John Mcclatchey Saunders -57yo (child)"
+      "notes": "Possible contact is John Mcclatchey Saunders -57yo (child)",
+      "category": "lake"
     },
     {
       "id": "LB14 056",
@@ -8174,7 +8215,8 @@
           "url": "images/LB14-056/deed-1.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BAZEMORE+ROBERT+W&map_code=LB14++056&map_type=&logic_unique_key=LB14056-R-2309"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BAZEMORE+ROBERT+W&map_code=LB14++056&map_type=&logic_unique_key=LB14056-R-2309",
+      "category": "lake"
     },
     {
       "id": "LB01 097",
@@ -8342,7 +8384,8 @@
           "label": "Deed \u2014 Page 5 of 5",
           "url": "images/LB01-097/deed-5.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB09 072 L",
@@ -8605,7 +8648,8 @@
           "label": "Deed \u2014 Page 5 of 5",
           "url": "images/LB09-072-L/deed-5.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB05 097 L",
@@ -8844,7 +8888,8 @@
           "url": "images/LB05-097-L/deed-2.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HARDIE+FAMILY+HOLDINGS+LLLP&map_code=LB05++097++L&map_type=&logic_unique_key=LB05097L-R-12862"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HARDIE+FAMILY+HOLDINGS+LLLP&map_code=LB05++097++L&map_type=&logic_unique_key=LB05097L-R-12862",
+      "category": "lake"
     },
     {
       "id": "LB07 128 L",
@@ -9046,7 +9091,8 @@
           "url": "images/LB07-128-L/deed-1.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=FIKE+WILLIAM+EUGENE+II+%26&map_code=LB07++128++L&map_type=&logic_unique_key=LB07128L-R-1829"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=FIKE+WILLIAM+EUGENE+II+%26&map_code=LB07++128++L&map_type=&logic_unique_key=LB07128L-R-1829",
+      "category": "lake"
     },
     {
       "id": "LB07 108 L",
@@ -9250,7 +9296,8 @@
           "url": "images/LB07-108-L/deed-4.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SHERRILL+JOHN+A+ETAL&map_code=LB07++108++L&map_type=&logic_unique_key=LB07108L-R-2402"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SHERRILL+JOHN+A+ETAL&map_code=LB07++108++L&map_type=&logic_unique_key=LB07108L-R-2402",
+      "category": "lake"
     },
     {
       "id": "LB05 093 L",
@@ -9457,7 +9504,8 @@
           "url": "images/LB05-093-L/deed-3.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HEAD+NIGEL+J&map_code=LB05++093++L&map_type=&logic_unique_key=LB05093L-R-12501"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HEAD+NIGEL+J&map_code=LB05++093++L&map_type=&logic_unique_key=LB05093L-R-12501",
+      "category": "lake"
     },
     {
       "id": "LB08 054 L",
@@ -10137,7 +10185,8 @@
           "label": "Deed \u2014 Page 6 of 6",
           "url": "images/LB08-054-L/deed-6.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB14 016",
@@ -10315,7 +10364,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB14-016/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB15 049 L",
@@ -10473,7 +10523,8 @@
           "label": "Deed \u2014 Page 6 of 6",
           "url": "images/LB15-049-L/deed-6.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB07 054 L",
@@ -10723,7 +10774,8 @@
           "url": "images/LB07-054-L/deed-2.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=LOVELL+JOHN+C&map_code=LB07++054++L&map_type=&logic_unique_key=LB07054L-R-1972"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=LOVELL+JOHN+C&map_code=LB07++054++L&map_type=&logic_unique_key=LB07054L-R-1972",
+      "category": "lake"
     },
     {
       "id": "LB05 086 L",
@@ -11032,7 +11084,8 @@
           "url": "images/LB05-086-L/deed-3.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BOOTLE+JAMES+CHILDS+2023+TRUST&map_code=LB05++086++L&map_type=&logic_unique_key=LB05086L-R-1488"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BOOTLE+JAMES+CHILDS+2023+TRUST&map_code=LB05++086++L&map_type=&logic_unique_key=LB05086L-R-1488",
+      "category": "lake"
     },
     {
       "id": "LB14 004",
@@ -11321,7 +11374,8 @@
           "url": "images/LB14-004/deed-2.jpg"
         }
       ],
-      "notes": "Skiptraced information is for Sherry Mather."
+      "notes": "Skiptraced information is for Sherry Mather.",
+      "category": "lake"
     },
     {
       "id": "LB08 047 L",
@@ -11489,7 +11543,8 @@
           "url": "images/LB08-047-L/deed-3.jpg"
         }
       ],
-      "notes": "Skiptraced information is for James Griffin."
+      "notes": "Skiptraced information is for James Griffin.",
+      "category": "lake"
     },
     {
       "id": "LB08 023",
@@ -11668,7 +11723,8 @@
           "url": "images/LB08-023/deed-2.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=MARKS+REBECCA+T&map_code=LB08++023&map_type=&logic_unique_key=LB08023-R-2041"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=MARKS+REBECCA+T&map_code=LB08++023&map_type=&logic_unique_key=LB08023-R-2041",
+      "category": "lake"
     },
     {
       "id": "LB12 005 L",
@@ -11869,7 +11925,8 @@
           "url": "images/LB12-005-L/deed-2.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SMITH+KAYE+SCOTT&map_code=LB12++005++L&map_type=&logic_unique_key=LB12005L-R-1508"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SMITH+KAYE+SCOTT&map_code=LB12++005++L&map_type=&logic_unique_key=LB12005L-R-1508",
+      "category": "lake"
     },
     {
       "id": "LB14 136 L",
@@ -12149,7 +12206,8 @@
           "url": "images/LB14-136-L/deed-5.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=GRIER+FAMILY+TRUST+B&map_code=LB14++136++L&map_type=&logic_unique_key=LB14136L-R-2189"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=GRIER+FAMILY+TRUST+B&map_code=LB14++136++L&map_type=&logic_unique_key=LB14136L-R-2189",
+      "category": "lake"
     },
     {
       "id": "LB08 030",
@@ -12437,7 +12495,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB08-030/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB14A 048",
@@ -12679,7 +12738,8 @@
           "url": "images/LB14A-048/deed-1.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=COOPER+ROBERT+M+SR&map_code=LB14A+048&map_type=&logic_unique_key=LB14A048-R-2229"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=COOPER+ROBERT+M+SR&map_code=LB14A+048&map_type=&logic_unique_key=LB14A048-R-2229",
+      "category": "lake"
     },
     {
       "id": "LB11 016 L",
@@ -12766,7 +12826,8 @@
           "label": "Deed \u2014 Page 1 of 1",
           "url": "images/LB11-016-L/deed-1.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB05 085 L",
@@ -12875,7 +12936,8 @@
           "url": "images/LB05-085-L/deed-1.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SAUNDERS+FREDERICK+F+JR&map_code=LB05++085++L&map_type=&logic_unique_key=LB05085L-R-1487"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SAUNDERS+FREDERICK+F+JR&map_code=LB05++085++L&map_type=&logic_unique_key=LB05085L-R-1487",
+      "category": "lake"
     },
     {
       "id": "LB05 054 L",
@@ -13138,7 +13200,8 @@
           "label": "Deed \u2014 Page 2 of 2",
           "url": "images/LB05-054-L/deed-2.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB08 052 L",
@@ -13235,7 +13298,8 @@
           "label": "Deed \u2014 Page 6 of 6",
           "url": "images/LB08-052-L/deed-6.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB07 060 L",
@@ -13385,7 +13449,8 @@
           "label": "Deed \u2014 Page 3 of 3",
           "url": "images/LB07-060-L/deed-3.jpg"
         }
-      ]
+      ],
+      "category": "lake"
     },
     {
       "id": "LB14 052",
@@ -13605,7 +13670,8 @@
           "url": "images/LB14-052/deed-1.jpg"
         }
       ],
-      "notes": "There is a person named James K Knight (95yo) deceased which is Mary\u2019s father and under his possible relatives, James Knight JR shows as possible In-law."
+      "notes": "There is a person named James K Knight (95yo) deceased which is Mary\u2019s father and under his possible relatives, James Knight JR shows as possible In-law.",
+      "category": "lake"
     },
     {
       "id": "LB11 066",
@@ -13666,7 +13732,8 @@
           "url": "images/LB11-066/deed-1.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HOWARD+CAROLYN+S&map_code=LB11++066&map_type=&logic_unique_key=LB11066-R-1551"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HOWARD+CAROLYN+S&map_code=LB11++066&map_type=&logic_unique_key=LB11066-R-1551",
+      "category": "lake"
     },
     {
       "id": "LB08 022",
@@ -13893,7 +13960,8 @@
           "url": "images/LB08-022/deed-3.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=MAY+JACK+HOUSE+TRUST+WITH+TRUSTEES&map_code=LB08++022&map_type=&logic_unique_key=LB08022-R-2040"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=MAY+JACK+HOUSE+TRUST+WITH+TRUSTEES&map_code=LB08++022&map_type=&logic_unique_key=LB08022-R-2040",
+      "category": "lake"
     },
     {
       "id": "LB14A 001",
@@ -14126,7 +14194,8 @@
           "url": "images/LB14A-001/deed-1.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=RICHIE+ELAINE+M&map_code=LB14A+001&map_type=&logic_unique_key=LB14A001-R-2249"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=RICHIE+ELAINE+M&map_code=LB14A+001&map_type=&logic_unique_key=LB14A001-R-2249",
+      "category": "lake"
     },
     {
       "id": "LN04 106 L",
@@ -14368,7 +14437,8 @@
         }
       ],
       "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=DUKES+ROBERT+A&map_code=LN04++106++L&map_type=&logic_unique_key=LN04106L-R-2495",
-      "notes": "Following information below is from Robert Dukes"
+      "notes": "Following information below is from Robert Dukes",
+      "category": "lake"
     },
     {
       "id": "LB07 053 L",
@@ -14528,7 +14598,8 @@
           "url": "images/LB07-053-L/deed-6.jpg"
         }
       ],
-      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SIMPSON+RICHARD&map_code=LB07++053++L&map_type=&logic_unique_key=LB07053L-R-1973"
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=SIMPSON+RICHARD&map_code=LB07++053++L&map_type=&logic_unique_key=LB07053L-R-1973",
+      "category": "lake"
     },
     {
       "id": "LB06 056 L",
@@ -14667,7 +14738,1806 @@
           "label": "Deed \u2014 Page 6 of 6",
           "url": "images/LB06-056-L/deed-6.jpg"
         }
-      ]
+      ],
+      "category": "lake"
+    },
+    {
+      "id": "033D 009A",
+      "accountNumber": "033D 009A",
+      "title": "650 Bridge Creek Rd, Tiger, GA 30576, LL37 LD5 BARN",
+      "lat": 34.8508022,
+      "lng": -83.4431718,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=033D%20%20009A",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=DOTSON+DYWANE&map_code=033D++009A&map_type=&logic_unique_key=033D009A-R-13086",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 37000,
+      "owner": {
+        "names": [
+          "DOTSON DYWANE"
+        ],
+        "mailingAddress": "145 FRED PITTS RD, DEMOREST, GA 30535",
+        "phones": [
+          "(334) 338-1651",
+          "(334) 636-0908"
+        ],
+        "emails": [
+          "DBDOTSON@AOL.COM",
+          "BULLGATOR99@MSN.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "5/31/2013",
+          "deedBookPage": "S39 544",
+          "salePrice": "$0",
+          "grantor": "DOTSON DWAYNE",
+          "grantee": "DOTSON DYWANE"
+        },
+        {
+          "saleDate": "11/8/2011",
+          "deedBookPage": "T37 651",
+          "salePrice": "$0",
+          "grantor": "SMITH WILLIAM M",
+          "grantee": "DOTSON DWAYNE"
+        },
+        {
+          "saleDate": "1/1/2003",
+          "deedBookPage": "00R23 0397",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "SMITH WILLIAM M"
+        },
+        {
+          "saleDate": "6/1/1995",
+          "deedBookPage": "00S15 0555",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "6/1/1995",
+          "deedBookPage": "00S15 0134",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "4/1/1988",
+          "deedBookPage": "00H11 0321",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "GLENDA DOTSON",
+          "age": "80",
+          "relationship": "Spouse",
+          "address": "145 FRED PITTS RD, DEMOREST, GA, 30535",
+          "phones": [
+            "(404) 641-9515",
+            "(334) 636-0908",
+            "(404) 274-9531",
+            "(601) 731-2385"
+          ]
+        },
+        {
+          "name": "DEANNE COLLINS",
+          "age": "54",
+          "relationship": "Child",
+          "address": "1465 IRIS GLEN LN, HOSCHTON, GA, 30548",
+          "phones": [
+            "(770) 428-2245"
+          ]
+        },
+        {
+          "name": "SHANE DOTSON",
+          "age": "51",
+          "relationship": "Child",
+          "address": "58 S LIBERTY ST, REYNOLDS, GA, 31076",
+          "phones": [
+            "(404) 641-9515"
+          ]
+        },
+        {
+          "name": "PRUDENCE SMITH",
+          "age": "94",
+          "relationship": "Other Relative",
+          "address": "650 BRIDGE CREEK RD, TIGER, GA, 30576",
+          "phones": [
+            "(662) 257-1496"
+          ]
+        },
+        {
+          "name": "HEATHER DOTSON",
+          "age": "49",
+          "relationship": "In-law",
+          "address": "138 CHAPEL HILL CIR, MACON, GA, 31211",
+          "phones": [
+            "(678) 591-3629",
+            "(478) 279-5546",
+            "(678) 591-9136",
+            "(478) 847-9011"
+          ]
+        },
+        {
+          "name": "BRIAN COLLINS",
+          "age": "52",
+          "relationship": "In-law",
+          "address": "1465 IRIS GLEN LN, HOSCHTON, GA, 30548",
+          "phones": [
+            "(770) 428-2245",
+            "(678) 963-5071",
+            "(478) 953-2059"
+          ]
+        }
+      ],
+      "photos": [
+        "images/033D-009A/photo-1.jpg",
+        "images/033D-009A/photo-2.jpg",
+        "images/033D-009A/photo-3.jpg",
+        "images/033D-009A/photo-4.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 1",
+          "url": "images/033D-009A/deed-1.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "LB01 078",
+      "accountNumber": "LB01 078",
+      "title": "27 Crocodile Cir, Clarkesville, GA 30523 - Lot 210",
+      "lat": 34.8488305,
+      "lng": -83.57437,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=LB01%20%20078",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=ANDREWS+L+AND+J+FAMILY+TRUST+WITH&map_code=LB01++078&map_type=&logic_unique_key=LB01078-R-1758",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 830312,
+      "owner": {
+        "names": [
+          "ANDREWS L AND J FAMILY TRUST WITH ANDREWS JOHN V TRUSTEE"
+        ],
+        "mailingAddress": "27 CROCODILE CIRCLE, CLARKESVILLE, GA 30523",
+        "phones": [
+          "(678) 313-3262",
+          "(770) 597-7489",
+          "(404) 787-4401",
+          "(404) 247-1980",
+          "(404) 233-0280",
+          "(770) 303-0001",
+          "(770) 717-1544",
+          "(678) 732-0179",
+          "(404) 233-0612",
+          "(770) 233-0280",
+          "(770) 303-0600"
+        ],
+        "emails": [
+          "ANDR7573@COMCAST.NET",
+          "ANDREWS3697@YAHOO.COM",
+          "ANDREWS_275@HOTMAIL.COM",
+          "ANDREWSJ@MINDSPRING.COM",
+          "JANDREWS@HYPERBAND.COM",
+          "JERRYH_MS@WEBTV.NET",
+          "JARRELLRICHARD@MSN.COM",
+          "JERRYHMS@DELL.COM",
+          "JERRYH_MS@DELL.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "3/23/2023",
+          "deedBookPage": "M50 50",
+          "salePrice": "$0",
+          "grantor": "ANDREWS LINDA",
+          "grantee": "ANDREWS L AND J FAMILY TRUST WITH"
+        },
+        {
+          "saleDate": "10/1/1993",
+          "deedBookPage": "00Q14 0494",
+          "salePrice": "$39,500",
+          "grantor": "\u2014",
+          "grantee": "ANDREWS LINDA"
+        },
+        {
+          "saleDate": "7/1/1980",
+          "deedBookPage": "000O7 0428",
+          "salePrice": "$39,500",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "11/1/1963",
+          "deedBookPage": "000Q3 0196",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "1/1/1961",
+          "deedBookPage": "000L3 0451",
+          "salePrice": "$6,000",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "1/1/1961",
+          "deedBookPage": "000L3 0449",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "LINDA ANDREWS",
+          "age": "83",
+          "relationship": "Spouse",
+          "address": "1356 CAMBRIDGE CT NE, ATLANTA, GA, 30319",
+          "phones": [
+            "(404) 386-0224",
+            "(678) 732-0179",
+            "(404) 233-0612",
+            "(770) 233-0612",
+            "(404) 233-0280"
+          ]
+        },
+        {
+          "name": "PATRICK ANDREWS",
+          "age": "45",
+          "relationship": "Child",
+          "address": "5885 BROOKGREEN RD, ATLANTA, GA, 30328",
+          "phones": [
+            "(404) 281-0596",
+            "(404) 784-0085"
+          ]
+        },
+        {
+          "name": "KATHERINE ANDREWS",
+          "age": "51",
+          "relationship": "Child",
+          "address": "3650 ASHFORD DUNWOODY RD NE UNIT 716, ATLANTA, GA, 30319",
+          "phones": [
+            "(404) 784-0085",
+            "(770) 457-5650",
+            "(678) 732-0179"
+          ]
+        },
+        {
+          "name": "LORI ANDREWS",
+          "age": "46",
+          "relationship": "Other Relative",
+          "address": "3532 FLAT RUN DR, BETHLEHEM, GA, 30620",
+          "phones": [
+            "(770) 527-1674",
+            "(770) 597-7489",
+            "(678) 342-6444",
+            "(404) 233-0280"
+          ]
+        },
+        {
+          "name": "LILLIAN ANDREWS",
+          "age": "21",
+          "relationship": "Other Relative",
+          "address": "3650 ASHFORD DUNWOODY RD NE UNIT 716, ATLANTA, GA, 30319",
+          "phones": [
+            "(404) 862-7246"
+          ]
+        },
+        {
+          "name": "DESIREE ANDREWS",
+          "age": "45",
+          "relationship": "In-law",
+          "address": "5885 BROOKGREEN RD, ATLANTA, GA, 30328",
+          "phones": [
+            "(210) 378-2012",
+            "(347) 353-7430"
+          ]
+        },
+        {
+          "name": "JOHN ANDREWS",
+          "age": "47",
+          "relationship": "In-law",
+          "address": "3532 FLAT RUN DR, BETHLEHEM, GA, 30620",
+          "phones": [
+            "(770) 597-7489",
+            "(404) 391-7567",
+            "(404) 247-1980",
+            "(404) 233-0280",
+            "(678) 639-1646"
+          ]
+        }
+      ],
+      "photos": [
+        "images/LB01-078/photo-1.jpg",
+        "images/LB01-078/photo-2.jpg",
+        "images/LB01-078/photo-3.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 3",
+          "url": "images/LB01-078/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 3",
+          "url": "images/LB01-078/deed-2.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 3 of 3",
+          "url": "images/LB01-078/deed-3.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "LB16A 031",
+      "accountNumber": "LB16A 031",
+      "title": "62 Hill Camp Ln Clayton, GA 30525",
+      "lat": 34.8592346,
+      "lng": -83.51325070000001,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&Q=1130948843&KeyValue=LB16A+031",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=LAKE+NEST+HOLDINGS+LLC&map_code=LB16A+031E&map_type=&logic_unique_key=LB16A031E-R-6649",
+      "taxStatus": "Tax Delinquent",
+      "propertyValue": 170085,
+      "owner": {
+        "names": [
+          "BOSS FRED E",
+          "MARY I C/O ASHLEY CAPUTO"
+        ],
+        "mailingAddress": "6229 BROOKSHIRE CT, BRASELTON, GA 30517",
+        "phones": [
+          "(706) 540-2863",
+          "(404) 863-2334"
+        ],
+        "emails": [
+          "FRED.BOSS@YAHOO.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "8/1/1981",
+          "deedBookPage": "000A8 0356",
+          "salePrice": "$40,000",
+          "grantor": "\u2014",
+          "grantee": "BOSS FRED E & MARY I"
+        },
+        {
+          "saleDate": "12/1/1977",
+          "deedBookPage": "000N6 0682",
+          "salePrice": "$60,000",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "10/1/1968",
+          "deedBookPage": "000X4 0178",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "11/1/1967",
+          "deedBookPage": "000E4 0388",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "MARY BOSS",
+          "age": "92",
+          "relationship": "Unknown",
+          "address": "PO BOX 2122, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 782-4582"
+          ]
+        },
+        {
+          "name": "MELISSA DURAN",
+          "age": "58",
+          "relationship": "Child",
+          "address": "655 WYNN SHOALS RD, ALTO, GA, 30510",
+          "phones": [
+            "(706) 499-1337",
+            "(706) 776-2749"
+          ]
+        },
+        {
+          "name": "PERRY BOSS",
+          "age": "76",
+          "relationship": "Child",
+          "address": "4351 OAK CREEK DR, GAINESVILLE, GA, 30506",
+          "phones": [
+            "(770) 532-6763"
+          ]
+        },
+        {
+          "name": "KAY SEABOLT",
+          "age": "66",
+          "relationship": "In-law",
+          "address": "4839 COUNTRYSIDE DR, FLOWERY BRANCH, GA, 30542",
+          "phones": [
+            "(770) 533-3557",
+            "(770) 614-0501"
+          ]
+        }
+      ],
+      "photos": [
+        "images/LB16A-031/photo-1.jpg",
+        "images/LB16A-031/photo-2.jpg",
+        "images/LB16A-031/photo-3.jpg",
+        "images/LB16A-031/photo-4.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 1",
+          "url": "images/LB16A-031/deed-1.jpg"
+        }
+      ],
+      "category": "non-lake",
+      "notes": "Tax delinquent amount: $9.29"
+    },
+    {
+      "id": "T002 015",
+      "accountNumber": "T002 015",
+      "title": "82 Bridge Creek Rd, Tiger, GA 30576, LOT 3-8 BLK 6 LL 37 LD 5",
+      "lat": 34.847327,
+      "lng": -83.4350486,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=T002%20%20015",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=CRUMP+RICKY&map_code=T002++015&map_type=&logic_unique_key=T002015-R-3579",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 102248,
+      "owner": {
+        "names": [
+          "CRUMP RICKY"
+        ],
+        "mailingAddress": "82 BRIDGE CREEK RD, TIGER, GA 30576",
+        "phones": [
+          "(706) 782-9541"
+        ],
+        "emails": []
+      },
+      "salesHistory": [
+        {
+          "saleDate": "4/1/2002",
+          "deedBookPage": "00J22 0316",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "CRUMP RICKY"
+        },
+        {
+          "saleDate": "8/1/1976",
+          "deedBookPage": "000D6 0463",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "EVANS CRUMP",
+          "age": "68",
+          "relationship": "Spouse",
+          "address": "82 BRIDGE CREEK RD, TIGER, GA, 30576",
+          "phones": [
+            "(706) 982-9113",
+            "(706) 209-1520",
+            "(706) 212-8214",
+            "(706) 490-3141"
+          ]
+        },
+        {
+          "name": "CHARLIE IVESTER",
+          "age": "36",
+          "relationship": "Child",
+          "address": "4091 HIGHWAY 76 W, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 982-1908"
+          ]
+        },
+        {
+          "name": "ALISHA DOVER",
+          "age": "43",
+          "relationship": "Child",
+          "address": "1346 HOLLYWOOD CHURCH RD, CLARKESVILLE, GA, 30523",
+          "phones": [
+            "(706) 768-6426",
+            "(762) 217-2133",
+            "(706) 754-9241",
+            "(706) 490-4010"
+          ]
+        },
+        {
+          "name": "RICHARD CRUMP",
+          "age": "45",
+          "relationship": "Child",
+          "address": "93 TWILIGHT LN, TIGER, GA, 30576",
+          "phones": [
+            "(706) 970-5055",
+            "(706) 982-4455",
+            "(706) 970-8201",
+            "(706) 564-6911"
+          ]
+        },
+        {
+          "name": "ROBIN FAIR",
+          "age": "68",
+          "relationship": "Other Relative",
+          "address": "(706) 782-5308 Residential",
+          "phones": []
+        },
+        {
+          "name": "ANDREW DOVER",
+          "age": "49",
+          "relationship": "In-law",
+          "address": "1356 HOLLYWOOD CHURCH RD, CLARKESVILLE, GA, 30523",
+          "phones": [
+            "(706) 703-3050",
+            "(706) 949-4390",
+            "(706) 754-9241"
+          ]
+        },
+        {
+          "name": "JESSICA IVESTER",
+          "age": "36",
+          "relationship": "In-law",
+          "address": "4091 HIGHWAY 76 W, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 982-5250",
+            "(706) 782-1394",
+            "(706) 782-9628",
+            "(706) 947-0543"
+          ]
+        },
+        {
+          "name": "AMANDA CRUMP",
+          "age": "47",
+          "relationship": "In-law",
+          "address": "93 TWILIGHT LN, TIGER, GA, 30576",
+          "phones": [
+            "(706) 970-5072",
+            "(706) 564-6911",
+            "(712) 592-3299",
+            "(706) 782-9205"
+          ]
+        }
+      ],
+      "photos": [
+        "images/T002-015/photo-1.jpg",
+        "images/T002-015/photo-2.jpg",
+        "images/T002-015/photo-3.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 1",
+          "url": "images/T002-015/deed-1.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "033D 024",
+      "accountNumber": "033D 024",
+      "title": "270 Syrup City Rd, Tiger, GA 30576",
+      "lat": 34.852495399999995,
+      "lng": -83.4356354,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=033D%20%20024",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HOPKINS+BRITTNEY+%26+DOUG&map_code=033D++024&map_type=&logic_unique_key=033D024-R-3561",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 55910,
+      "owner": {
+        "names": [
+          "HOPKINS BRITTNEY",
+          "DOUG"
+        ],
+        "mailingAddress": "PO BOX 884, CLAYTON, GA 30525",
+        "phones": [
+          "(706) 490-1502"
+        ],
+        "emails": [
+          "BRITTNEYHOPKINS232@GMAIL.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "1/12/2024",
+          "deedBookPage": "A51 759",
+          "salePrice": "$0",
+          "grantor": "HOPKINS BRITTANY",
+          "grantee": "HOPKINS BRITTNEY"
+        },
+        {
+          "saleDate": "11/2/2023",
+          "deedBookPage": "X50 361",
+          "salePrice": "$0",
+          "grantor": "HOPKINS VIRGINIA L",
+          "grantee": "HOPKINS BRITTANY & DOUG"
+        },
+        {
+          "saleDate": "10/1/1998",
+          "deedBookPage": "00F18 0332",
+          "salePrice": "$20,000",
+          "grantor": "\u2014",
+          "grantee": "HOPKINS GLENN C"
+        },
+        {
+          "saleDate": "10/1/1986",
+          "deedBookPage": "00L10 0278",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "5/1/1942",
+          "deedBookPage": "000P2 0110",
+          "salePrice": "$550",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "GLENN HOPKINS",
+          "age": "66",
+          "relationship": "Parent",
+          "address": "165 VALLEY ST, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 212-0019",
+            "(706) 746-5492"
+          ]
+        },
+        {
+          "name": "JANET HOPKINS",
+          "age": "54",
+          "relationship": "Parent",
+          "address": "244 N VALLEY ST, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 982-9137",
+            "(706) 782-4779",
+            "(662) 255-1833"
+          ]
+        },
+        {
+          "name": "ASHLEY WARD",
+          "age": "31",
+          "relationship": "Sibling",
+          "address": "557 DEBORAHS WAY, WESTMINSTER, SC, 29693",
+          "phones": [
+            "(706) 490-3293"
+          ]
+        },
+        {
+          "name": "JASON HOLT",
+          "age": "54",
+          "relationship": "Other Relative",
+          "address": "342 N VALLEY ST, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 212-8480",
+            "(706) 490-0270",
+            "(706) 201-3347"
+          ]
+        },
+        {
+          "name": "JOHN WARD",
+          "age": "46",
+          "relationship": "In-law",
+          "address": "202 FRED HENRY LN, CLAYTON, GA, 30525",
+          "phones": []
+        },
+        {
+          "name": "EMERALD TALLEY",
+          "age": "37",
+          "relationship": "In-law",
+          "address": "157 GRASSHOPPER LN, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 982-2612",
+            "(706) 212-8588",
+            "(706) 982-1711"
+          ]
+        },
+        {
+          "name": "JORDAN CUNNINGHAM",
+          "age": "28",
+          "relationship": "In-law",
+          "address": "345 MAIN ST, WISHRAM, WA, 98673",
+          "phones": [
+            "(971) 500-8435",
+            "(541) 965-8167",
+            "(509) 250-3313"
+          ]
+        }
+      ],
+      "photos": [
+        "images/033D-024/photo-1.jpg",
+        "images/033D-024/photo-2.jpg",
+        "images/033D-024/photo-3.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 2",
+          "url": "images/033D-024/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 2",
+          "url": "images/033D-024/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake",
+      "notes": "Doug Hopkins is Brittney\u2019s father (Glenn Douglas Hopkins 66yo)."
+    },
+    {
+      "id": "LB16A 030",
+      "accountNumber": "LB16A 030",
+      "title": "312 Timpson Cove Rd Clayton, Georgia",
+      "lat": 34.8585517,
+      "lng": -83.51282909999999,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=LB16A%20030",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BRAND+TRACY+L&map_code=LB16A+030&map_type=&logic_unique_key=LB16A030-R-1363",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 30000,
+      "owner": {
+        "names": [
+          "BRAND TRACY L"
+        ],
+        "mailingAddress": "1636 ROBERTS QUARTERS RD, CONCORD, GA 30206",
+        "phones": [
+          "(770) 884-3440",
+          "(770) 884-9938",
+          "(404) 588-0562"
+        ],
+        "emails": []
+      },
+      "salesHistory": [
+        {
+          "saleDate": "3/9/2020",
+          "deedBookPage": "C47 500",
+          "salePrice": "$0",
+          "grantor": "BRAND DANNY L",
+          "grantee": "BRAND TRACY L"
+        },
+        {
+          "saleDate": "2/28/2012",
+          "deedBookPage": "D38 55",
+          "salePrice": "$16,000",
+          "grantor": "BOSS PERRY L",
+          "grantee": "BRAND DANNY L"
+        },
+        {
+          "saleDate": "5/1/1998",
+          "deedBookPage": "00W17 0205",
+          "salePrice": "$3,000",
+          "grantor": "\u2014",
+          "grantee": "BOSS PERRY L"
+        },
+        {
+          "saleDate": "8/1/1993",
+          "deedBookPage": "00M14 0561",
+          "salePrice": "$3,500",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "4/1/1978",
+          "deedBookPage": "000R6 0142",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "DANNY BRAND",
+          "age": "72",
+          "relationship": "Unknown",
+          "address": "200 EARLY CT, FAYETTEVILLE, GA, 30215",
+          "phones": [
+            "(770) 884-3440",
+            "(404) 351-5176",
+            "(770) 436-8599"
+          ]
+        },
+        {
+          "name": "THOMAS BRAND",
+          "age": "36",
+          "relationship": "Child",
+          "address": "64 INTOWN PL, FAYETTEVILLE, GA, 30214",
+          "phones": [
+            "(770) 884-3440"
+          ]
+        },
+        {
+          "name": "WILLIAM BRAND",
+          "age": "32",
+          "relationship": "Child",
+          "address": "200 EARLY CT, FAYETTEVILLE, GA, 30215",
+          "phones": [
+            "(678) 862-8332",
+            "(770) 884-3440"
+          ]
+        },
+        {
+          "name": "MICKEY BRAND",
+          "age": "70",
+          "relationship": "In-law",
+          "address": "1531 CORBIN PL SW, MARIETTA, GA, 30008",
+          "phones": [
+            "(678) 914-3736",
+            "(678) 521-2325",
+            "(678) 719-1851"
+          ]
+        },
+        {
+          "name": "JOAN SINGLEY",
+          "age": "68",
+          "relationship": "In-law",
+          "address": "1531 CORBIN PL SW, MARIETTA, GA, 30008",
+          "phones": [
+            "(770) 687-3281",
+            "(770) 794-8818",
+            "(770) 439-3372"
+          ]
+        },
+        {
+          "name": "WILLIE BRAND",
+          "age": "94",
+          "relationship": "In-law",
+          "address": "3371 SHIELDS LAKE DR SW, MARIETTA, GA, 30008",
+          "phones": [
+            "(770) 436-8599"
+          ]
+        },
+        {
+          "name": "MELISSA BRAND",
+          "age": "37",
+          "relationship": "In-law",
+          "address": "1700 SABASTIAN PT NE, ATLANTA, GA, 30329",
+          "phones": [
+            "(770) 597-3857",
+            "(404) 824-0903",
+            "(770) 486-0320"
+          ]
+        },
+        {
+          "name": "JACQUELYN BRAND",
+          "age": "32",
+          "relationship": "In-law",
+          "address": "226 JODECO STATION TER, STOCKBRIDGE, GA, 30281",
+          "phones": [
+            "(678) 520-5356",
+            "(678) 758-9691",
+            "(678) 895-1222",
+            "(770) 506-7814"
+          ]
+        }
+      ],
+      "photos": [
+        "images/LB16A-030/photo-1.jpg",
+        "images/LB16A-030/photo-2.jpg",
+        "images/LB16A-030/photo-3.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 2",
+          "url": "images/LB16A-030/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 2",
+          "url": "images/LB16A-030/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "C004 016",
+      "accountNumber": "C004 016",
+      "title": "580 VALLEY",
+      "lat": 34.889164900000004,
+      "lng": -83.404837,
+      "locationApproximate": false,
+      "propertyLink": "https://www.zillow.com/homedetails/580-Valley-St-Clayton-GA-30525/93123303_zpid/",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=RICKMAN+LUTHER+%2333770&map_code=C004++016&map_type=&logic_unique_key=C004016-R-282",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 73286,
+      "owner": {
+        "names": [
+          "RICKMAN LUTHER #33770 DOOLY STATE PRISON"
+        ],
+        "mailingAddress": "PO BOX 750, UNADILLA, GA 31091",
+        "phones": [
+          "(706) 782-3797",
+          "(706) 782-6030"
+        ],
+        "emails": []
+      },
+      "salesHistory": [
+        {
+          "saleDate": "1/1/2000",
+          "deedBookPage": "00L19 0165",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "RICKMAN LUTHER"
+        },
+        {
+          "saleDate": "4/1/1996",
+          "deedBookPage": "00J16 0259",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "4/1/1996",
+          "deedBookPage": "00J16 0257",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "2/1/1990",
+          "deedBookPage": "00J12 0240",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "3/1/1984",
+          "deedBookPage": "000B9 0413",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "DOOLY PRISON",
+          "age": "66",
+          "relationship": "Spouse",
+          "address": "PO BOX 750, UNADILLA, GA, 31091",
+          "phones": []
+        },
+        {
+          "name": "JOHN RICKMAN",
+          "age": "101",
+          "relationship": "Parent",
+          "address": "PO BOX 958052, DULUTH, GA, 30095",
+          "phones": [
+            "(706) 782-3797"
+          ]
+        },
+        {
+          "name": "SARAH RICKMAN",
+          "age": "100",
+          "relationship": "Parent",
+          "address": "101 BYRD BLVD, GREENVILLE, SC, 29605",
+          "phones": [
+            "(706) 782-3797"
+          ]
+        },
+        {
+          "name": "TAMMY KILBY",
+          "age": "54",
+          "relationship": "Child",
+          "address": "15 PRECISION LN, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 212-8252",
+            "(706) 968-1330",
+            "(865) 724-4087",
+            "(706) 782-9865"
+          ]
+        },
+        {
+          "name": "JOHN RICKMAN",
+          "age": "76",
+          "relationship": "Sibling",
+          "address": "220 INTEGRITY LN, RABUN GAP, GA, 30568",
+          "phones": [
+            "(706) 782-3797"
+          ]
+        },
+        {
+          "name": "CRISTIE MCKAY",
+          "age": "50",
+          "relationship": "Other Relative",
+          "address": "PO BOX 1049, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 420-9690",
+            "(706) 970-7428",
+            "(706) 524-9402",
+            "(706) 782-4280"
+          ]
+        },
+        {
+          "name": "STELLA RICKMAN",
+          "age": "29",
+          "relationship": "Other Relative",
+          "address": "23 CROSS ST, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 949-5540",
+            "(706) 782-6658"
+          ]
+        },
+        {
+          "name": "TIMOTHY KILBY",
+          "age": "64",
+          "relationship": "In-law",
+          "address": "15 PRECISION LN, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 982-4291",
+            "(706) 490-9196",
+            "(706) 662-7188",
+            "(706) 782-3795",
+            "(706) 782-9864"
+          ]
+        },
+        {
+          "name": "SUSAN RICKMAN",
+          "age": "77",
+          "relationship": "In-law",
+          "address": "214 WATTS ST, TIGER, GA, 30576",
+          "phones": [
+            "(706) 490-2077",
+            "(706) 782-3797",
+            "(706) 782-5251"
+          ]
+        }
+      ],
+      "photos": [
+        "images/C004-016/photo-1.jpg",
+        "images/C004-016/photo-2.jpg",
+        "images/C004-016/photo-3.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 2",
+          "url": "images/C004-016/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 2",
+          "url": "images/C004-016/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "042B 032",
+      "accountNumber": "042B 032",
+      "title": "28 Smith St Clayton, GA 30525",
+      "lat": 34.8843118,
+      "lng": -83.3977037,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=042B%20%20032",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=RAMEY+MARVENIA+CRAWFORD&map_code=042B++032&map_type=&logic_unique_key=042B032-R-7710",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 726872,
+      "owner": {
+        "names": [
+          "RAMEY MARVENIA CRAWFORD"
+        ],
+        "mailingAddress": "PO BOX 1312, CLAYTON, GA 30525",
+        "phones": [
+          "(706) 782-5455",
+          "(706) 782-4439"
+        ],
+        "emails": []
+      },
+      "salesHistory": [
+        {
+          "saleDate": "11/9/2017",
+          "deedBookPage": "N44 435",
+          "salePrice": "$0",
+          "grantor": "RAMEY THOMAS H & MARVENIA C",
+          "grantee": "RAMEY MARVENIA CRAWFORD"
+        },
+        {
+          "saleDate": "8/1/2002",
+          "deedBookPage": "00W22 0197",
+          "salePrice": "$357,500",
+          "grantor": "\u2014",
+          "grantee": "RAMEY THOMAS H"
+        },
+        {
+          "saleDate": "8/1/1976",
+          "deedBookPage": "000E6 0552",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "2/1/1916",
+          "deedBookPage": "0000Z 0536",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "THOMAS RAMEY",
+          "age": "95",
+          "relationship": "Unknown",
+          "address": "35 E SAVANNAH ST, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 782-4439",
+            "(706) 782-5455"
+          ]
+        },
+        {
+          "name": "THOMAS RAMEY",
+          "age": "59",
+          "relationship": "Child",
+          "address": "69 MYRTLE LN, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 782-3118",
+            "(706) 490-0879",
+            "(706) 982-1776",
+            "(706) 782-7239"
+          ]
+        },
+        {
+          "name": "HORACE RAMEY",
+          "age": "65",
+          "relationship": "Child",
+          "address": "1973 OLD 441 S, TIGER, GA, 30576",
+          "phones": [
+            "(706) 490-1534",
+            "(706) 782-4633",
+            "(706) 782-4439"
+          ]
+        },
+        {
+          "name": "BARBARA RAMEY",
+          "age": "70",
+          "relationship": "Other Relative",
+          "address": "7005 FLAGSTAFF LN APT 103, HENRICO, VA, 23228",
+          "phones": [
+            "(360) 929-5508",
+            "(571) 334-7354",
+            "(360) 679-7961",
+            "(435) 867-4804",
+            "(503) 834-2242"
+          ]
+        },
+        {
+          "name": "JANE PYSHER",
+          "age": "89",
+          "relationship": "Other Relative",
+          "address": "616 COUNTRY LAKE DR, HAMPTON, GA, 30228",
+          "phones": [
+            "(706) 782-7766"
+          ]
+        },
+        {
+          "name": "MICHELLE DORSEY",
+          "age": "54",
+          "relationship": "Other Relative",
+          "address": "15 BENT OAK DR, FRANKLIN, NC, 28734",
+          "phones": [
+            "(478) 697-4539",
+            "(706) 871-6928"
+          ]
+        },
+        {
+          "name": "BRIAN RAMEY",
+          "age": "39",
+          "relationship": "Other Relative",
+          "address": "727 GREENVILLE ST LOT 11, PENDLETON, SC, 29670",
+          "phones": [
+            "(706) 968-9581",
+            "(706) 982-2438"
+          ]
+        },
+        {
+          "name": "CHRISTOPHER RAMEY",
+          "age": "62",
+          "relationship": "Other Relative",
+          "address": "270 MARSENGILL DR, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 490-4851",
+            "(706) 782-5761"
+          ]
+        },
+        {
+          "name": "PAIGE RAMEY",
+          "age": "34",
+          "relationship": "Other Relative",
+          "address": "277 MARSEN KNOB DR APT 104, RABUN GAP, GA, 30568",
+          "phones": [
+            "(706) 970-7514"
+          ]
+        },
+        {
+          "name": "CHANTZ RAMEY",
+          "age": "30",
+          "relationship": "Other Relative",
+          "address": "226 LINDA LN, LAGRANGE, GA, 30240",
+          "phones": [
+            "(404) 348-3787"
+          ]
+        },
+        {
+          "name": "THOMAS RAMEY",
+          "age": "65",
+          "relationship": "Other Relative",
+          "address": "1010 BETHEL RD, TIGER, GA, 30576",
+          "phones": [
+            "(706) 490-1322",
+            "(706) 540-2840",
+            "(706) 782-5455",
+            "(706) 782-7290"
+          ]
+        },
+        {
+          "name": "REBECCA RAMEY",
+          "age": "57",
+          "relationship": "In-law",
+          "address": "(706) 490-0056 Mobile",
+          "phones": [
+            "(706) 982-1294",
+            "(706) 982-1776",
+            "(706) 782-7239"
+          ]
+        },
+        {
+          "name": "MERCY RAMEY",
+          "age": "56",
+          "relationship": "In-law",
+          "address": "3433 CHELTENHAM RD, TOLEDO, OH, 43606",
+          "phones": [
+            "(864) 320-1826",
+            "(864) 884-2049",
+            "(864) 906-9866",
+            "(706) 983-6017"
+          ]
+        },
+        {
+          "name": "JEFF RAMEY",
+          "age": "63",
+          "relationship": "In-law",
+          "address": "2621 WHITE ROCK DR, BUFORD, GA, 30519",
+          "phones": [
+            "(678) 313-8153",
+            "(770) 605-3763",
+            "(678) 313-8152",
+            "(770) 965-1093"
+          ]
+        }
+      ],
+      "photos": [],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 1",
+          "url": "images/042B-032/deed-1.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "LB14A 024A",
+      "accountNumber": "LB14A 024A",
+      "title": "31 Boykin Rd, Tiger, GA 30576",
+      "lat": 34.8092817,
+      "lng": -83.5384387,
+      "locationApproximate": false,
+      "propertyLink": "https://www.zillow.com/homedetails/31-Boykin-Rd-Tiger-GA-30576/76597287_zpid/",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HARRISON+KENNETH+%26+KENDALL+SEAN&map_code=LB14A+024A&map_type=&logic_unique_key=LB14A024A-R-14571",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 190868,
+      "owner": {
+        "names": [
+          "HARRISON KENNETH",
+          "KENDALL SEAN"
+        ],
+        "mailingAddress": "105 BOYKIN RD, TIGER, GA 30576",
+        "phones": [
+          "(706) 782-4956"
+        ],
+        "emails": []
+      },
+      "salesHistory": [
+        {
+          "saleDate": "5/1/2024",
+          "deedBookPage": "G51 380",
+          "salePrice": "$0",
+          "grantor": "HARRISON KENNETH & KENDALL SEAN",
+          "grantee": "HARRISON KENNETH & KENDALL SEAN"
+        },
+        {
+          "saleDate": "7/18/2023",
+          "deedBookPage": "S50 343",
+          "salePrice": "$0",
+          "grantor": "HARRISON KENNETH",
+          "grantee": "HARRISON KENNETH & KENDALL SEAN"
+        },
+        {
+          "saleDate": "5/15/2009",
+          "deedBookPage": "Z34 336",
+          "salePrice": "$118,575",
+          "grantor": "RABUN COUNTY BANK",
+          "grantee": "HARRISON KENNETH"
+        },
+        {
+          "saleDate": "5/7/2009",
+          "deedBookPage": "Y34 298",
+          "salePrice": "$87,100",
+          "grantor": "HARRISON K SEAN",
+          "grantee": "RABUN COUNTY BANK"
+        },
+        {
+          "saleDate": "9/1/2005",
+          "deedBookPage": "00U28 0213",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "HARRISON K SEAN"
+        },
+        {
+          "saleDate": "11/1/2002",
+          "deedBookPage": "00L23 0217",
+          "salePrice": "$97,400",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "SARA HARRISON",
+          "age": "82",
+          "relationship": "Unknown",
+          "address": "105 BOYKIN RD, TIGER, GA, 30576",
+          "phones": [
+            "(706) 782-4956",
+            "(706) 782-6561"
+          ]
+        },
+        {
+          "name": "MARK HARRISON",
+          "age": "62",
+          "relationship": "Child",
+          "address": "14689 CEDAR SPRINGS RD, BLAKELY, GA, 39823",
+          "phones": [
+            "(561) 762-8687",
+            "(706) 490-5156",
+            "(404) 799-6815"
+          ]
+        },
+        {
+          "name": "KENDALL HARRISON",
+          "age": "51",
+          "relationship": "Child",
+          "address": "31 BOYKIN RD, TIGER, GA, 30576",
+          "phones": [
+            "(706) 490-4051",
+            "(706) 782-4956",
+            "(706) 782-7954"
+          ]
+        },
+        {
+          "name": "TINA HARRISON",
+          "age": "51",
+          "relationship": "Other Relative",
+          "address": "1527 CALVARY CHURCH RD, GAINESVILLE, GA, 30507",
+          "phones": [
+            "(770) 335-2007",
+            "(678) 717-8409",
+            "(706) 490-1866"
+          ]
+        },
+        {
+          "name": "REBECCA CLARK",
+          "age": "49",
+          "relationship": "In-law",
+          "address": "6426 PERSIMMON RD, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 982-3451",
+            "(706) 540-2899",
+            "(706) 782-7449",
+            "(706) 782-7954"
+          ]
+        }
+      ],
+      "photos": [
+        "images/LB14A-024A/photo-1.jpg",
+        "images/LB14A-024A/photo-2.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 1",
+          "url": "images/LB14A-024A/deed-1.jpg"
+        }
+      ],
+      "category": "non-lake",
+      "notes": "Kendal Sean is possibly Kendall Harrison (Child) who is listed in possible relatives."
+    },
+    {
+      "id": "C008 026",
+      "accountNumber": "C008 026",
+      "title": "96 Toole St, Clayton, GA 30525, LOT 3 PT 4",
+      "lat": 34.8717427,
+      "lng": -83.404724,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&Q=998850692&KeyValue=C008++026",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=CHAMPION+THOMAS+CARLOS+III+%26&map_code=C008++026&map_type=&logic_unique_key=C008026-R-1001",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 56149,
+      "owner": {
+        "names": [
+          "CHAMPION THOMAS CARLOS III",
+          "CHAMPION CANDY LEE SNIPES"
+        ],
+        "mailingAddress": "420 LACEY WAY, MCDONOUGH, GA 30252",
+        "phones": [
+          "(770) 961-8563",
+          "(404) 675-1867",
+          "(770) 957-1072"
+        ],
+        "emails": [
+          "THOMAS.CHAMPION@EMAIL.COM",
+          "THOMAS.CHAMPION@NEETRAC.GATECH.EDU"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "10/7/2024",
+          "deedBookPage": "P51 21",
+          "salePrice": "$0",
+          "grantor": "CHAMPION T C III",
+          "grantee": "CHAMPION THOMAS CARLOS III & CANDY LEE S"
+        },
+        {
+          "saleDate": "8/1/1984",
+          "deedBookPage": "000G9 0434",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "CHAMPION T C III"
+        },
+        {
+          "saleDate": "8/1/1949",
+          "deedBookPage": "000W2 0330",
+          "salePrice": "$3,300",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "CANDY SNIPES",
+          "age": "58",
+          "relationship": "Spouse",
+          "address": "420 LACEY WAY, MCDONOUGH, GA, 30252",
+          "phones": [
+            "(404) 313-1199",
+            "(404) 273-7437",
+            "(704) 236-5857",
+            "(404) 284-8570"
+          ]
+        },
+        {
+          "name": "TINA CHAMPION",
+          "age": "57",
+          "relationship": "Other Relative",
+          "address": "1401 N HAIRSTON RD APT 23D, STONE MOUNTAIN, GA, 30083",
+          "phones": [
+            "(404) 593-1348",
+            "(404) 388-6094",
+            "(310) 922-8121",
+            "(912) 265-6397",
+            "(404) 459-3134"
+          ]
+        },
+        {
+          "name": "THOMAS CHAMPION",
+          "age": "60",
+          "relationship": "Other Relative",
+          "address": "209 BLACK ROCK SCHOOL RD, CHERRYVILLE, NC, 28021",
+          "phones": [
+            "(704) 600-8488",
+            "(404) 218-5028",
+            "(704) 685-4628",
+            "(704) 435-8417",
+            "(770) 961-8563"
+          ]
+        },
+        {
+          "name": "ANTHONY FLOYD",
+          "age": "80",
+          "relationship": "In-law",
+          "address": "4722 BROOKWOOD VW, ATLANTA, GA, 30349",
+          "phones": [
+            "(678) 592-7692",
+            "(404) 272-7363",
+            "(404) 983-4092",
+            "(404) 244-6858",
+            "(404) 768-5299"
+          ]
+        },
+        {
+          "name": "TRENT FLOYD",
+          "age": "53",
+          "relationship": "In-law",
+          "address": "3027 DOGWOOD DR, ATLANTA, GA, 30344",
+          "phones": [
+            "(404) 964-1169",
+            "(404) 983-4092",
+            "(404) 768-5299"
+          ]
+        },
+        {
+          "name": "JODA SNIPES",
+          "age": "87",
+          "relationship": "In-law",
+          "address": "534 HAYNIE MILL RD, BELTON, SC, 29627",
+          "phones": [
+            "(864) 261-0460",
+            "(864) 225-5683"
+          ]
+        },
+        {
+          "name": "LYNDON SNIPES",
+          "age": "62",
+          "relationship": "In-law",
+          "address": "534 HAYNIE MILL RD, BELTON, SC, 29627",
+          "phones": [
+            "(864) 940-3574",
+            "(803) 338-4011",
+            "(864) 261-0460",
+            "(864) 225-5683"
+          ]
+        },
+        {
+          "name": "SHANON SNIPES",
+          "age": "64",
+          "relationship": "In-law",
+          "address": "2610 HIGHWAY 252, BELTON, SC, 29627",
+          "phones": [
+            "(803) 931-2800",
+            "(803) 348-8183",
+            "(803) 319-5592",
+            "(803) 781-9133"
+          ]
+        },
+        {
+          "name": "QUIA FLOYD",
+          "age": "47",
+          "relationship": "In-law",
+          "address": "23 ELBERTA TER, DOUGLASVILLE, GA, 30134",
+          "phones": [
+            "(773) 290-3426",
+            "(404) 422-9474"
+          ]
+        },
+        {
+          "name": "MARQUITTA FLOYD",
+          "age": "43",
+          "relationship": "In-law",
+          "address": "4237 GLENFOREST NE WAY, ROSWELL, GA, 30075",
+          "phones": [
+            "(470) 223-9223",
+            "(404) 207-4940",
+            "(470) 579-8766",
+            "(470) 778-1326"
+          ]
+        }
+      ],
+      "photos": [
+        "images/C008-026/photo-1.jpg",
+        "images/C008-026/photo-2.jpg",
+        "images/C008-026/photo-3.jpg",
+        "images/C008-026/photo-4.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 2",
+          "url": "images/C008-026/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 2",
+          "url": "images/C008-026/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "C008 027",
+      "accountNumber": "C008 027",
+      "title": "96 Toole St, Clayton, GA 30525, LOT 1 & 2",
+      "lat": 34.8717427,
+      "lng": -83.404724,
+      "locationApproximate": false,
+      "propertyLink": "https://www.zillow.com/homedetails/96-Toole-St-Clayton-GA-30525/231085199_zpid/",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=CHAMPION+THOMAS+CARLOS+III+%26&map_code=C008++027&map_type=&logic_unique_key=C008027-R-1002",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 18000,
+      "owner": {
+        "names": [
+          "CHAMPION THOMAS CARLOS III",
+          "CHAMPION CANDY LEE SNIPES"
+        ],
+        "mailingAddress": "420 LACEY WAY, MCDONOUGH, GA 30252",
+        "phones": [
+          "(770) 961-8563",
+          "(404) 675-1867",
+          "(770) 957-1072"
+        ],
+        "emails": [
+          "THOMAS.CHAMPION@EMAIL.COM",
+          "THOMAS.CHAMPION@NEETRAC.GATECH.EDU"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "10/7/2024",
+          "deedBookPage": "P51 19",
+          "salePrice": "$0",
+          "grantor": "CHAMPION T C III",
+          "grantee": "CHAMPION THOMAS CARLOS III & CANDY LEE S"
+        },
+        {
+          "saleDate": "3/1/1990",
+          "deedBookPage": "00M12 0072",
+          "salePrice": "$3,200",
+          "grantor": "\u2014",
+          "grantee": "CHAMPION T C III"
+        },
+        {
+          "saleDate": "4/1/1986",
+          "deedBookPage": "00D10 0536",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        },
+        {
+          "saleDate": "7/1/1979",
+          "deedBookPage": "000E7 0204",
+          "salePrice": "$0",
+          "grantor": "\u2014",
+          "grantee": "\u2014"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "CANDY SNIPES",
+          "age": "58",
+          "relationship": "Spouse",
+          "address": "420 LACEY WAY, MCDONOUGH, GA, 30252",
+          "phones": [
+            "(404) 313-1199",
+            "(404) 273-7437",
+            "(704) 236-5857",
+            "(404) 284-8570"
+          ]
+        },
+        {
+          "name": "TINA CHAMPION",
+          "age": "57",
+          "relationship": "Other Relative",
+          "address": "1401 N HAIRSTON RD APT 23D, STONE MOUNTAIN, GA, 30083",
+          "phones": [
+            "(404) 593-1348",
+            "(404) 388-6094",
+            "(310) 922-8121",
+            "(912) 265-6397",
+            "(404) 459-3134"
+          ]
+        },
+        {
+          "name": "THOMAS CHAMPION",
+          "age": "60",
+          "relationship": "Other Relative",
+          "address": "209 BLACK ROCK SCHOOL RD, CHERRYVILLE, NC, 28021",
+          "phones": [
+            "(704) 600-8488",
+            "(404) 218-5028",
+            "(704) 685-4628",
+            "(704) 435-8417",
+            "(770) 961-8563"
+          ]
+        },
+        {
+          "name": "ANTHONY FLOYD",
+          "age": "80",
+          "relationship": "In-law",
+          "address": "4722 BROOKWOOD VW, ATLANTA, GA, 30349",
+          "phones": [
+            "(678) 592-7692",
+            "(404) 272-7363",
+            "(404) 983-4092",
+            "(404) 244-6858",
+            "(404) 768-5299"
+          ]
+        },
+        {
+          "name": "TRENT FLOYD",
+          "age": "53",
+          "relationship": "In-law",
+          "address": "3027 DOGWOOD DR, ATLANTA, GA, 30344",
+          "phones": [
+            "(404) 964-1169",
+            "(404) 983-4092",
+            "(404) 768-5299"
+          ]
+        },
+        {
+          "name": "JODA SNIPES",
+          "age": "87",
+          "relationship": "In-law",
+          "address": "534 HAYNIE MILL RD, BELTON, SC, 29627",
+          "phones": [
+            "(864) 261-0460",
+            "(864) 225-5683"
+          ]
+        },
+        {
+          "name": "LYNDON SNIPES",
+          "age": "62",
+          "relationship": "In-law",
+          "address": "534 HAYNIE MILL RD, BELTON, SC, 29627",
+          "phones": [
+            "(864) 940-3574",
+            "(803) 338-4011",
+            "(864) 261-0460",
+            "(864) 225-5683"
+          ]
+        },
+        {
+          "name": "SHANON SNIPES",
+          "age": "64",
+          "relationship": "In-law",
+          "address": "2610 HIGHWAY 252, BELTON, SC, 29627",
+          "phones": [
+            "(803) 931-2800",
+            "(803) 348-8183",
+            "(803) 319-5592",
+            "(803) 781-9133"
+          ]
+        },
+        {
+          "name": "QUIA FLOYD",
+          "age": "47",
+          "relationship": "In-law",
+          "address": "23 ELBERTA TER, DOUGLASVILLE, GA, 30134",
+          "phones": [
+            "(773) 290-3426",
+            "(404) 422-9474"
+          ]
+        },
+        {
+          "name": "MARQUITTA FLOYD",
+          "age": "43",
+          "relationship": "In-law",
+          "address": "4237 GLENFOREST NE WAY, ROSWELL, GA, 30075",
+          "phones": [
+            "(470) 223-9223",
+            "(404) 207-4940",
+            "(470) 579-8766",
+            "(470) 778-1326"
+          ]
+        }
+      ],
+      "photos": [
+        "images/C008-027/photo-1.jpg",
+        "images/C008-027/photo-2.jpg",
+        "images/C008-027/photo-3.jpg",
+        "images/C008-027/photo-4.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Deed \u2014 Page 1 of 2",
+          "url": "images/C008-027/deed-1.jpg"
+        },
+        {
+          "label": "Deed \u2014 Page 2 of 2",
+          "url": "images/C008-027/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake"
     }
   ]
 }
