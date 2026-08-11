@@ -18432,6 +18432,977 @@
         }
       ],
       "category": "non-lake"
+    },
+    {
+      "id": "C008 015",
+      "accountNumber": "C008 015",
+      "title": "534 Shadyside Dr, Clayton, GA 30525",
+      "lat": 34.8731071,
+      "lng": -83.403537,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=C008%20%20015",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=WALTER+PAMELA&map_code=C008++015&map_type=&logic_unique_key=C008015-R-1115",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 15000,
+      "owner": {
+        "names": [
+          "WALTER PAMELA"
+        ],
+        "mailingAddress": "PO BOX 97, TALLULAH FALLS, GA 30573",
+        "phones": [
+          "(706) 754-3208",
+          "(706) 746-2218",
+          "(770) 740-9374"
+        ],
+        "emails": [
+          "UGA1982@COMCAST.NET",
+          "PFOUNTAIN@WEBTV.COM",
+          "PFOUNTAIN@ATTB1.COM",
+          "PFOUNTAIN@LOCALNET.COM",
+          "PFOUNTAIN@ATTBI.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "4/5/2021",
+          "deedBookPage": "M48 347",
+          "salePrice": "$30,000",
+          "grantor": "CONNELL SARAH LAMAR",
+          "grantee": "WALTER PAMELA"
+        },
+        {
+          "saleDate": "11/14/2019",
+          "deedBookPage": "U46 651",
+          "salePrice": "$40,000",
+          "grantor": "BURRELL GLENN S & LANA C",
+          "grantee": "CONNELL SARAH LAMAR"
+        },
+        {
+          "saleDate": "10/22/2015",
+          "deedBookPage": "I42 679",
+          "salePrice": "$0",
+          "grantor": "BURRELL DEBBIE W",
+          "grantee": "BURRELL GLENN S & LANA C"
+        },
+        {
+          "saleDate": "10/1/1995",
+          "deedBookPage": "00Y15 0419",
+          "salePrice": "$23,000",
+          "grantor": "—",
+          "grantee": "BURRELL DEBBIE W"
+        },
+        {
+          "saleDate": "3/1/1968",
+          "deedBookPage": "000E4 0504",
+          "salePrice": "$7,000",
+          "grantor": "—",
+          "grantee": "—"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "GEORGE FOUNTAIN",
+          "age": "68",
+          "relationship": "Spouse",
+          "address": "655 WOLFFORK RD, RABUN GAP, GA, 30568",
+          "phones": [
+            "(706) 490-5639",
+            "(706) 325-3159",
+            "(770) 740-9374",
+            "(706) 746-2218"
+          ]
+        },
+        {
+          "name": "CLARENCE WALTER",
+          "age": "96",
+          "relationship": "Parent",
+          "address": "19 NETTLE CT, COLUMBUS, GA, 31909",
+          "phones": [
+            "(706) 563-5690"
+          ]
+        },
+        {
+          "name": "SHIRLEY WALTER",
+          "age": "92",
+          "relationship": "Parent",
+          "address": "PO BOX 97, TALLULAH FALLS, GA, 30573",
+          "phones": [
+            "(706) 563-5690"
+          ]
+        },
+        {
+          "name": "GILBERT FOUNTAIN",
+          "age": "33",
+          "relationship": "Child",
+          "address": "63 RHONDA DR, CLAYTON, GA, 30525",
+          "phones": [
+            "(770) 367-1443",
+            "(770) 740-9374"
+          ]
+        },
+        {
+          "name": "THOMAS FOUNTAIN",
+          "age": "29",
+          "relationship": "Child",
+          "address": "920 HICKORY NUT MTN RD, TALLULAH FALLS, GA, 30573",
+          "phones": [
+            "(706) 490-7159"
+          ]
+        },
+        {
+          "name": "KIMBERLY AUSTIN",
+          "age": "63",
+          "relationship": "Sibling",
+          "address": "1360 QUEENS PARK DR NW, KENNESAW, GA, 30152",
+          "phones": [
+            "(770) 639-0746",
+            "(770) 722-1171",
+            "(770) 559-4577"
+          ]
+        },
+        {
+          "name": "JAMES WALTERS",
+          "age": "69",
+          "relationship": "Other Relative",
+          "address": "12885 MCCHESNEY RD, EAST SPRINGFIELD, PA, 16411",
+          "phones": [
+            "(970) 231-0485",
+            "(970) 443-3258",
+            "(970) 226-1962",
+            "(970) 377-9825"
+          ]
+        },
+        {
+          "name": "MELINDA FOUNTAIN",
+          "age": "51",
+          "relationship": "Other Relative",
+          "address": "1603 OLD ATHENS HWY, MONROE, GA, 30656",
+          "phones": [
+            "(470) 926-0862",
+            "(706) 968-2025",
+            "(864) 999-5642",
+            "(706) 212-8936"
+          ]
+        },
+        {
+          "name": "CECIL FOUNTAIN",
+          "age": "84",
+          "relationship": "Other Relative",
+          "address": "12 HUNTER LN, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 782-4086",
+            "(706) 490-3810"
+          ]
+        },
+        {
+          "name": "JUNIOR FOUNTAIN",
+          "age": "84",
+          "relationship": "Other Relative",
+          "address": "245 LUDVILLE RD, RANGER, GA, 30734",
+          "phones": [
+            "(706) 692-2572",
+            "(706) 692-9484"
+          ]
+        },
+        {
+          "name": "TERESA FOUNTAIN",
+          "age": "60",
+          "relationship": "Other Relative",
+          "address": "765 WOLFFORK RD, RABUN GAP, GA, 30568",
+          "phones": [
+            "(706) 490-2600",
+            "(706) 564-7287",
+            "(706) 746-3649",
+            "(706) 746-7386"
+          ]
+        },
+        {
+          "name": "THOMAS FOUNTAIN",
+          "age": "90",
+          "relationship": "Other Relative",
+          "address": "2902 SANDY FORD RD, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 746-5607"
+          ]
+        },
+        {
+          "name": "AMANDA FOUNTAIN",
+          "age": "43",
+          "relationship": "Other Relative",
+          "address": "732 BROADWAY ST, VERO BEACH, FL, 32960",
+          "phones": [
+            "(321) 614-6839",
+            "(772) 774-9388",
+            "(772) 569-5392"
+          ]
+        },
+        {
+          "name": "BAR FOUNTAIN",
+          "age": "",
+          "relationship": "Other Relative",
+          "address": "1221 YORKHOUSE RD, RABUN GAP, GA, 30568",
+          "phones": [
+            "(706) 746-5607"
+          ]
+        },
+        {
+          "name": "GRILL FOUNTAIN",
+          "age": "",
+          "relationship": "Other Relative",
+          "address": "1221 YORKHOUSE RD, RABUN GAP, GA, 30568",
+          "phones": [
+            "(706) 746-5607"
+          ]
+        },
+        {
+          "name": "THOMAS FOUNTAIN",
+          "age": "32",
+          "relationship": "Other Relative",
+          "address": "230 BOB MARK TRL, RABUN GAP, GA, 30568",
+          "phones": [
+            "(404) 663-8254",
+            "(706) 746-2883"
+          ]
+        },
+        {
+          "name": "DAVID AUSTIN",
+          "age": "62",
+          "relationship": "In-law",
+          "address": "1360 QUEENS PARK DR NW, KENNESAW, GA, 30152",
+          "phones": [
+            "(770) 310-4690",
+            "(770) 722-1171",
+            "(770) 481-1743",
+            "(770) 579-6367"
+          ]
+        },
+        {
+          "name": "WANDA BLECKLEY",
+          "age": "74",
+          "relationship": "In-law",
+          "address": "4378 WARWOMAN RD, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 782-2621"
+          ]
+        },
+        {
+          "name": "RENO FOUNTAIN",
+          "age": "92",
+          "relationship": "In-law",
+          "address": "655 WOLFFORK RD, RABUN GAP, GA, 30568",
+          "phones": [
+            "(706) 746-2218"
+          ]
+        },
+        {
+          "name": "CLEO FOUNTAIN",
+          "age": "91",
+          "relationship": "In-law",
+          "address": "310 BOB MARK TRL, RABUN GAP, GA, 30568",
+          "phones": [
+            "(706) 746-2218"
+          ]
+        }
+      ],
+      "photos": [],
+      "documents": [
+        {
+          "label": "Limited Warranty Deed — Page 1 of 2",
+          "url": "images/C008-015/deed-1.jpg"
+        },
+        {
+          "label": "Limited Warranty Deed — Page 2 of 2",
+          "url": "images/C008-015/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "021 058A",
+      "accountNumber": "021 058A",
+      "title": "780 Steepway Ln, Clayton, GA 30525",
+      "lat": 34.907078,
+      "lng": -83.5024702,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&Q=1955832927&KeyValue=021+++058A",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=ENGLISH+WESLEY+%26+TRACY&map_code=021+++058A&map_type=&logic_unique_key=021058A-R-13550",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 165403,
+      "owner": {
+        "names": [
+          "ENGLISH WESLEY",
+          "TRACY"
+        ],
+        "mailingAddress": "780 STEEPWAY LN, CLAYTON, GA 30525",
+        "phones": [
+          "(706) 982-1806",
+          "(706) 982-0742",
+          "(706) 982-5593",
+          "(706) 782-4909",
+          "(706) 782-2308"
+        ],
+        "emails": [
+          "TRACY.BLACKROCK@YAHOO.COM",
+          "NEGOC16@YAHOO.COM",
+          "NEGOC@ALLTEL.NET",
+          "NEGOC16@ALLTEL.NET"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "10/21/2008",
+          "deedBookPage": "G34 242",
+          "salePrice": "$128,376",
+          "grantor": "ENGLISH LOIS ELIZABETH",
+          "grantee": "ENGLISH WESLEY D & TRACY L"
+        },
+        {
+          "saleDate": "7/1/2002",
+          "deedBookPage": "00U22 0624",
+          "salePrice": "$0",
+          "grantor": "—",
+          "grantee": "ENGLISH LOIS ELIZABETH"
+        },
+        {
+          "saleDate": "7/1/1991",
+          "deedBookPage": "00G13 0432",
+          "salePrice": "$0",
+          "grantor": "—",
+          "grantee": "—"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "WESLEY ENGLISH",
+          "age": "69",
+          "relationship": "Unknown",
+          "address": "780 STEEPWAY LN, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 982-0742",
+            "(706) 782-4911"
+          ]
+        },
+        {
+          "name": "JESSE ENGLISH",
+          "age": "85",
+          "relationship": "Parent",
+          "address": "2493 BRIDGE CREEK RD, TIGER, GA, 30576",
+          "phones": [
+            "(706) 782-2702"
+          ]
+        },
+        {
+          "name": "CHRISTINA SHELTON",
+          "age": "44",
+          "relationship": "Child",
+          "address": "590 RED PINE DR UNIT 4204, SENECA, SC, 29678",
+          "phones": [
+            "(864) 637-9495",
+            "(706) 982-3249",
+            "(706) 782-9927",
+            "(706) 970-5335"
+          ]
+        },
+        {
+          "name": "MARK STONE",
+          "age": "42",
+          "relationship": "Child",
+          "address": "326 DOLLY DIXON LN, CLAYTON, GA, 30525",
+          "phones": []
+        },
+        {
+          "name": "MATTHEW ENGLISH",
+          "age": "38",
+          "relationship": "Child",
+          "address": "6246 HIGHWAY 136, TRENTON, GA, 30752",
+          "phones": [
+            "(828) 200-2150"
+          ]
+        },
+        {
+          "name": "JENNIFER ENGLISH",
+          "age": "50",
+          "relationship": "Sibling",
+          "address": "307 S GRANT ST, GOLDENDALE, WA, 98620",
+          "phones": [
+            "(509) 261-0257",
+            "(208) 625-0564",
+            "(509) 773-6507",
+            "(509) 773-7348"
+          ]
+        },
+        {
+          "name": "OSCAR ENGLISH",
+          "age": "59",
+          "relationship": "Sibling",
+          "address": "5227 RED CLAY RD, COHUTTA, GA, 30710",
+          "phones": [
+            "(706) 968-0400",
+            "(706) 782-2702"
+          ]
+        },
+        {
+          "name": "ANGELA YOUNG",
+          "age": "50",
+          "relationship": "Other Relative",
+          "address": "3268 ROSEMONT RD, APPLING, GA, 30802",
+          "phones": [
+            "(706) 799-6848",
+            "(706) 651-0450"
+          ]
+        },
+        {
+          "name": "BETTY ENGLISH",
+          "age": "86",
+          "relationship": "Other Relative",
+          "address": "2493 BRIDGE CREEK RD, TIGER, GA, 30576",
+          "phones": [
+            "(706) 782-2702"
+          ]
+        },
+        {
+          "name": "ELIZABETH CURBOW",
+          "age": "46",
+          "relationship": "Other Relative",
+          "address": "6 DENVER YORK LN, TIGER, GA, 30576",
+          "phones": [
+            "(706) 410-6097",
+            "(706) 768-1802",
+            "(706) 768-0743"
+          ]
+        },
+        {
+          "name": "ALYSON GRAGG",
+          "age": "61",
+          "relationship": "Other Relative",
+          "address": "188 BERRYHILL LN, TIGER, GA, 30576",
+          "phones": [
+            "(706) 490-1338",
+            "(706) 782-5903"
+          ]
+        },
+        {
+          "name": "GARY CHAMBLEE",
+          "age": "69",
+          "relationship": "Other Relative",
+          "address": "250 J & B FARM LN, LONG CREEK, SC, 29658",
+          "phones": [
+            "(770) 965-1770",
+            "(864) 647-8775"
+          ]
+        },
+        {
+          "name": "KAYLI ENGLISH",
+          "age": "38",
+          "relationship": "Other Relative",
+          "address": "1172 YORKHOUSE RD, RABUN GAP, GA, 30568",
+          "phones": [
+            "(706) 490-4853"
+          ]
+        },
+        {
+          "name": "WESLEY CURBOW",
+          "age": "27",
+          "relationship": "Other Relative",
+          "address": "501 SANDERS ST, CLARKESVILLE, GA, 30523",
+          "phones": [
+            "(706) 982-2393"
+          ]
+        },
+        {
+          "name": "KYLE CURBOW",
+          "age": "45",
+          "relationship": "In-law",
+          "address": "1971 HIGHWAY 59, COMMERCE, GA, 30530",
+          "phones": [
+            "(706) 212-8683",
+            "(706) 982-4331"
+          ]
+        },
+        {
+          "name": "WILLIAM ENGLISH",
+          "age": "61",
+          "relationship": "In-law",
+          "address": "34 HUMPHREY LN, CLAYTON, GA, 30525",
+          "phones": []
+        },
+        {
+          "name": "MELANIE HARRIS",
+          "age": "61",
+          "relationship": "In-law",
+          "address": "17677 US 221 N, MARION, NC, 28752",
+          "phones": [
+            "(828) 460-2080",
+            "(919) 437-9274",
+            "(910) 514-1934",
+            "(910) 916-9782",
+            "(919) 628-7351"
+          ]
+        },
+        {
+          "name": "SHANNON ENGLISH",
+          "age": "57",
+          "relationship": "In-law",
+          "address": "5227 RED CLAY RD, COHUTTA, GA, 30710",
+          "phones": [
+            "(706) 980-3295",
+            "(706) 968-0400",
+            "(386) 233-9264",
+            "(706) 694-2457"
+          ]
+        },
+        {
+          "name": "LARS JENSEN",
+          "age": "49",
+          "relationship": "In-law",
+          "address": "10977 N DANIELLE ST, HAYDEN, ID, 83835",
+          "phones": [
+            "(509) 261-8746",
+            "(509) 250-3081",
+            "(509) 250-0124"
+          ]
+        },
+        {
+          "name": "JACOB SHELTON",
+          "age": "44",
+          "relationship": "In-law",
+          "address": "590 RED PINE DR UNIT 4204, SENECA, SC, 29678",
+          "phones": []
+        },
+        {
+          "name": "EMERALD TALLEY",
+          "age": "37",
+          "relationship": "In-law",
+          "address": "157 GRASSHOPPER LN, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 982-2612",
+            "(706) 212-8588",
+            "(706) 982-1711"
+          ]
+        },
+        {
+          "name": "LOIS ENGLISH",
+          "age": "91",
+          "relationship": "In-law",
+          "address": "34 HUMPHREY LN, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 768-2080",
+            "(706) 782-7973",
+            "(706) 782-6166"
+          ]
+        },
+        {
+          "name": "KENNETH ENGLISH",
+          "age": "92",
+          "relationship": "In-law",
+          "address": "PO BOX 454, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 212-0121",
+            "(706) 782-6166"
+          ]
+        }
+      ],
+      "photos": [
+        "images/021-058A/photo-1.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Warranty Deed",
+          "url": "images/021-058A/deed-1.jpg"
+        }
+      ],
+      "category": "non-lake",
+      "notes": "Smartskip shows Wesley English as deceased; skip-trace info is for Tracy English."
+    },
+    {
+      "id": "041F 005",
+      "accountNumber": "041F 005",
+      "title": "1306 Old 441 N, Clayton, GA 30525",
+      "lat": 34.896121,
+      "lng": -83.396973,
+      "locationApproximate": false,
+      "propertyLink": "https://www.zillow.com/homedetails/1306-Old-441-N-Clayton-GA-30525/231079211_zpid/",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=HOLLIFIELD+EDITH+TRUST&map_code=041F++005&map_type=&logic_unique_key=041F005-R-406",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 1890,
+      "owner": {
+        "names": [
+          "HOLLIFIELD EDITH TRUST"
+        ],
+        "mailingAddress": "55 JIM WALLACE LN, CLAYTON, GA 30525",
+        "phones": [
+          "(706) 782-3951",
+          "(864) 414-5139",
+          "(720) 560-1371"
+        ],
+        "emails": [
+          "EHOLLIFIELD@JUNO.COM",
+          "EHOLLIFIELD1@JUNO.COM",
+          "ANGEL1762@NETZERO.NET",
+          "EHOLLIFIELDB6@JUNO.COM",
+          "LEHOLLIFIELDO88@JUNO.COM",
+          "MEHOLLIFIELD3@JUNO.COM",
+          "RIEHOLLIFIELD93@JUNO.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "8/1/1999",
+          "deedBookPage": "00D19 0474",
+          "salePrice": "$0",
+          "grantor": "—",
+          "grantee": "HOLLIFIELD EDITH TRUST"
+        },
+        {
+          "saleDate": "12/1/1962",
+          "deedBookPage": "00003 0472",
+          "salePrice": "$0",
+          "grantor": "—",
+          "grantee": "—"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "COYLE HOLLIFIELD",
+          "age": "116",
+          "relationship": "Unknown",
+          "address": "1217 W PRINCETON ST, ORLANDO, FL, 32804",
+          "phones": []
+        },
+        {
+          "name": "BRENDA HOLLIFIELD",
+          "age": "61",
+          "relationship": "Child",
+          "address": "55 JIM WALLACE LN, CLAYTON, GA, 30525",
+          "phones": [
+            "(310) 663-0500",
+            "(706) 782-6864"
+          ]
+        },
+        {
+          "name": "ERIC HOLLIFIELD",
+          "age": "53",
+          "relationship": "Other Relative",
+          "address": "5924 HIGHWAY 76 W, CLAYTON, GA, 30525",
+          "phones": [
+            "(706) 746-7564"
+          ]
+        },
+        {
+          "name": "MARLENA HOLLIFIELD",
+          "age": "35",
+          "relationship": "Other Relative",
+          "address": "264 TRELLIS WALK, MACON, GA, 31220",
+          "phones": [
+            "(470) 833-6544",
+            "(430) 252-1366",
+            "(678) 756-2558"
+          ]
+        },
+        {
+          "name": "MICHAEL HOLLIFIELD",
+          "age": "64",
+          "relationship": "Other Relative",
+          "address": "4852 N BLACKSTOCK RD, SPARTANBURG, SC, 29303",
+          "phones": [
+            "(864) 205-9107",
+            "(512) 506-1026",
+            "(864) 279-4218",
+            "(864) 359-9493",
+            "(864) 574-5376"
+          ]
+        },
+        {
+          "name": "JOHN DEBANTO",
+          "age": "60",
+          "relationship": "In-law",
+          "address": "126 S 2ND ST APT 2310, LOVELAND, OH, 45140",
+          "phones": [
+            "(213) 663-8411",
+            "(678) 897-3726",
+            "(760) 318-4321",
+            "(770) 536-8109",
+            "(678) 450-9531"
+          ]
+        },
+        {
+          "name": "MICHAEL HOLLIFIELD",
+          "age": "69",
+          "relationship": "In-law",
+          "address": "5055 THE ORCHARD RD, CLARKESVILLE, GA, 30523",
+          "phones": [
+            "(512) 506-1026",
+            "(912) 306-4249",
+            "(706) 782-6864"
+          ]
+        }
+      ],
+      "photos": [
+        "images/041F-005/photo-1.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Warranty Deed — Page 1 of 2",
+          "url": "images/041F-005/deed-1.jpg"
+        },
+        {
+          "label": "Warranty Deed — Exhibit A",
+          "url": "images/041F-005/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake",
+      "notes": "Owner Edith S Hollifield is deceased."
+    },
+    {
+      "id": "043A 060",
+      "accountNumber": "043A 060",
+      "title": "1625 Old 441 S, Tiger, GA 30576",
+      "lat": 34.863596,
+      "lng": -83.417098,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=043A%20%20060",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=DOCKINS+BARBARA&map_code=043A++060&map_type=&logic_unique_key=043A060-R-6161",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 149320,
+      "owner": {
+        "names": [
+          "DOCKINS BARBARA",
+          "DOCKINS GLENDA A"
+        ],
+        "mailingAddress": "1625 OLD 441 SOUTH, TIGER, GA 30576",
+        "phones": [],
+        "emails": [
+          "BADOCKINS@AOL.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "11/1/2004",
+          "deedBookPage": "00F27 0519",
+          "salePrice": "$0",
+          "grantor": "DOCKINS BARBARA",
+          "grantee": "DOCKINS BARBARA M & GLENDA A DOCKINS"
+        },
+        {
+          "saleDate": "6/1/1988",
+          "deedBookPage": "00L11 0151",
+          "salePrice": "$1,000",
+          "grantor": "PERTEET LORENE D & GLENN R DOCKINS",
+          "grantee": "DOCKINS GLENN RHODES & BARBARA M DOCKINS"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "GLENN DOCKINS",
+          "age": "84",
+          "relationship": "Unknown",
+          "address": "1625 OLD 441 S, TIGER, GA, 30576",
+          "phones": [
+            "(706) 782-5441"
+          ]
+        },
+        {
+          "name": "GLENDA MACNAMARA",
+          "age": "46",
+          "relationship": "Child",
+          "address": "1625 OLD 441 S, TIGER, GA, 30576",
+          "phones": [
+            "(762) 230-3560",
+            "(706) 490-0524",
+            "(706) 805-5892",
+            "(706) 490-7170"
+          ]
+        },
+        {
+          "name": "JEFFREY MACNAMARA",
+          "age": "54",
+          "relationship": "In-law",
+          "address": "1627 OLD 441 S, TIGER, GA, 30576",
+          "phones": [
+            "(937) 238-6208",
+            "(937) 313-8628",
+            "(937) 716-6769",
+            "(937) 776-6960"
+          ]
+        },
+        {
+          "name": "CLINT WOODS",
+          "age": "56",
+          "relationship": "In-law",
+          "address": "770 GEISKY CREEK RD, HAYESVILLE, NC, 28904",
+          "phones": [
+            "(706) 203-0947",
+            "(706) 988-6714",
+            "(706) 982-5353",
+            "(706) 988-2198"
+          ]
+        }
+      ],
+      "photos": [
+        "images/043A-060/photo-1.jpg",
+        "images/043A-060/photo-2.jpg",
+        "images/043A-060/photo-3.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Warranty Deed",
+          "url": "images/043A-060/deed-1.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "LB16A 037",
+      "accountNumber": "LB16A 037",
+      "title": "7239 Highway 76 West, Clayton, GA 30525",
+      "lat": 34.859837,
+      "lng": -83.512413,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&Q=280040752&KeyValue=LB16A+037",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=COCHRAN+DOROTHY+K+%26+NANCY+W+CABE&map_code=LB16A+037&map_type=&logic_unique_key=LB16A037-R-1338",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 169925,
+      "owner": {
+        "names": [
+          "COCHRAN DOROTHY K",
+          "NANCY W CABE"
+        ],
+        "mailingAddress": "34 VALLEY BROOK DR, FAIRBURN, GA 30213",
+        "phones": [
+          "(404) 964-4212",
+          "(770) 964-4212",
+          "(778) 964-4212"
+        ],
+        "emails": [
+          "DOTCOCHRAN@YAHOO.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "8/31/2011",
+          "deedBookPage": "O37 244",
+          "salePrice": "$0",
+          "grantor": "COCHRAN DOROTHY K ETAL",
+          "grantee": "COCHRAN DOROTHY K & NANCY W CABE"
+        },
+        {
+          "saleDate": "7/1/1999",
+          "deedBookPage": "00Z18 0415",
+          "salePrice": "$0",
+          "grantor": "—",
+          "grantee": "COCHRAN DOROTHY K ETAL"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "WILLIAM COCHRAN",
+          "age": "87",
+          "relationship": "Unknown",
+          "address": "34 VALLEYBROOK DR, FAIRBURN, GA, 30213",
+          "phones": [
+            "(770) 964-4212",
+            "(778) 964-4212"
+          ]
+        },
+        {
+          "name": "KELLY TROGDON",
+          "age": "58",
+          "relationship": "Child",
+          "address": "4581 KELLY MILL RD, CUMMING, GA, 30040",
+          "phones": [
+            "(770) 752-9710",
+            "(678) 333-4583",
+            "(678) 513-7668",
+            "(770) 569-8510"
+          ]
+        },
+        {
+          "name": "WILLIAM COCHRAN",
+          "age": "38",
+          "relationship": "Other Relative",
+          "address": "250 HILLCREST AVE, FAYETTEVILLE, GA, 30214",
+          "phones": [
+            "(678) 656-7287",
+            "(770) 969-1017",
+            "(770) 873-2369",
+            "(770) 964-4212",
+            "(778) 969-1017"
+          ]
+        },
+        {
+          "name": "CATHERINE COCHRAN",
+          "age": "103",
+          "relationship": "In-law",
+          "address": "7103 FOREST LN, UNION CITY, GA, 30291",
+          "phones": [
+            "(770) 652-0961",
+            "(770) 964-7449",
+            "(770) 964-5416",
+            "(904) 498-5731"
+          ]
+        },
+        {
+          "name": "JAMES COCHRAN",
+          "age": "74",
+          "relationship": "In-law",
+          "address": "7103 FOREST LN, UNION CITY, GA, 30291",
+          "phones": [
+            "(770) 833-4932",
+            "(678) 760-2292"
+          ]
+        },
+        {
+          "name": "WILLIAM COCHRAN",
+          "age": "84",
+          "relationship": "In-law",
+          "address": "75 LUFBERY CIR, WILLIAMSON, GA, 30292",
+          "phones": [
+            "(770) 833-4932",
+            "(404) 993-7384"
+          ]
+        },
+        {
+          "name": "WILLIAM TROGDON",
+          "age": "58",
+          "relationship": "In-law",
+          "address": "3915 WINTERBERRY RD, CUMMING, GA, 30040",
+          "phones": [
+            "(678) 612-8510",
+            "(404) 277-2727",
+            "(770) 778-0134",
+            "(678) 790-6040",
+            "(770) 844-6821"
+          ]
+        },
+        {
+          "name": "WILLIAM COCHRAN",
+          "age": "105",
+          "relationship": "In-law",
+          "address": "7103 FOREST LN, UNION CITY, GA, 30291",
+          "phones": [
+            "(770) 833-4930",
+            "(770) 964-5416",
+            "(708) 442-4589",
+            "(770) 964-7449"
+          ]
+        }
+      ],
+      "photos": [
+        "images/LB16A-037/photo-1.jpg",
+        "images/LB16A-037/photo-2.jpg"
+      ],
+      "documents": [
+        {
+          "label": "Warranty Deed — Page 1 of 2",
+          "url": "images/LB16A-037/deed-1.jpg"
+        },
+        {
+          "label": "Warranty Deed — Page 2 of 2",
+          "url": "images/LB16A-037/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake",
+      "notes": "Both owners (Dorothy Cochran and Nancy W Cabe) show as deceased in skip-trace."
     }
   ]
 }
