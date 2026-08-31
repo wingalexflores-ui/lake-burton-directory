@@ -19695,6 +19695,382 @@
       ],
       "category": "non-lake",
       "notes": "Deed references Land Lots 86 & 95, 5th Land District, Rabun County; conveyed subject to Lake Burton Properties covenants recorded in Plat Book 13, Page 73."
+    },
+    {
+      "id": "LB01 079",
+      "accountNumber": "LB01 079",
+      "title": "21 Crocodile Cir, Clarkesville, GA 30523 - Lot 211",
+      "lat": 34.8454399,
+      "lng": -83.5698631,
+      "locationApproximate": false,
+      "propertyLink": "https://beacon.schneidercorp.com/Application.aspx?AppID=674&LayerID=11359&PageTypeID=4&PageID=4744&KeyValue=LB01%20%20079",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=BURDETTE+JOHN+WILLIAM+%26&map_code=LB01++079&map_type=&logic_unique_key=LB01079-R-1757",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 800592,
+      "owner": {
+        "names": [
+          "BURDETTE JOHN WILLIAM",
+          "HELLER JENNIFER BURDETTE"
+        ],
+        "mailingAddress": "121 OLD HICKORY LANE, POWDER SPRINGS, GA 30127",
+        "phones": [
+          "(470) 550-3448",
+          "(770) 425-7446",
+          "(706) 235-3972"
+        ],
+        "emails": [
+          "JWBURDETTE55@GMAIL.COM",
+          "JSCOTT595@YAHOO.COM",
+          "JSCOTT595@HOTMAIL.COM",
+          "JSCOTT@LIBERTYBAY.COM",
+          "OXXOLAURA@NETZERO.NET"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "6/3/2022",
+          "deedBookPage": "V49 42",
+          "salePrice": "$0",
+          "grantor": "BURDETTE SARA M",
+          "grantee": "BURDETTE JOHN WILLIAM & JENNIFER BURDETT"
+        },
+        {
+          "saleDate": "8/6/2020",
+          "deedBookPage": "N47 884",
+          "salePrice": "$0",
+          "grantor": "BURDETTE RABUN COUNTY LLC",
+          "grantee": "BURDETTE SARA M"
+        },
+        {
+          "saleDate": "8/6/2020",
+          "deedBookPage": "N47 877",
+          "salePrice": "$0",
+          "grantor": "BURDETTE JAMES M JR & SARA M",
+          "grantee": "BURDETTE RABUN COUNTY LLC"
+        },
+        {
+          "saleDate": "6/22/2018",
+          "deedBookPage": "F45 440",
+          "salePrice": "$0",
+          "grantor": "BURDETTE JAMES MILES JR",
+          "grantee": "BURDETTE SARA ALICE MOTES"
+        },
+        {
+          "saleDate": "12/26/2012",
+          "deedBookPage": "D39 447",
+          "salePrice": "$0",
+          "grantor": "BURDETTE JAMES M JR & SARA M",
+          "grantee": "BURDETTE RABUN COUNTY LLC"
+        },
+        {
+          "saleDate": "12/26/2012",
+          "deedBookPage": "D39 445",
+          "salePrice": "$0",
+          "grantor": "BURDETTE JAMES M JR",
+          "grantee": "BURDETTE JAMES M JR & SARA M"
+        },
+        {
+          "saleDate": "5/1/1970",
+          "deedBookPage": "000O4 0037",
+          "salePrice": "$0",
+          "grantor": "—",
+          "grantee": "BURDETTE JAMES M JR"
+        },
+        {
+          "saleDate": "4/1/1970",
+          "deedBookPage": "000N4 0594",
+          "salePrice": "$0",
+          "grantor": "—",
+          "grantee": "—"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "TERI BURDETTE",
+          "age": "70",
+          "relationship": "Spouse",
+          "address": "121 OLD HICKORY LN, POWDER SPRINGS, GA, 30127",
+          "phones": [
+            "(678) 770-1321",
+            "(770) 425-7446"
+          ]
+        },
+        {
+          "name": "JAMES BURDETTE",
+          "age": "98",
+          "relationship": "Parent",
+          "address": "1101 DESOTO AVE NW, ROME, GA, 30165",
+          "phones": [
+            "(706) 235-3972",
+            "(706) 512-0770",
+            "(706) 399-4186"
+          ]
+        },
+        {
+          "name": "SARA BURDETTE",
+          "age": "98",
+          "relationship": "Parent",
+          "address": "21 CROCODILE CIR, CLARKESVILLE, GA, 30523",
+          "phones": [
+            "(706) 235-3972"
+          ]
+        },
+        {
+          "name": "LAURA HOLLAND",
+          "age": "41",
+          "relationship": "Child",
+          "address": "15720 BURDETTE CT, ALPHARETTA, GA, 30004",
+          "phones": [
+            "(404) 556-6653",
+            "(678) 770-1321",
+            "(770) 425-7446"
+          ]
+        },
+        {
+          "name": "JEFFREY BURDETTE",
+          "age": "45",
+          "relationship": "Child",
+          "address": "5301 HILL RD NW, ACWORTH, GA, 30101",
+          "phones": [
+            "(770) 366-3535",
+            "(678) 770-1321",
+            "(770) 425-7446"
+          ]
+        },
+        {
+          "name": "JIMMY BURDETTE",
+          "age": "71",
+          "relationship": "Sibling",
+          "address": "85 GREEN AND GOLD BLVD NE, ROME, GA, 30161",
+          "phones": [
+            "(404) 671-6005",
+            "(706) 232-1933"
+          ]
+        },
+        {
+          "name": "JENNIFER HELLER",
+          "age": "67",
+          "relationship": "Sibling",
+          "address": "112 WARWICK WAY SE, ROME, GA, 30161",
+          "phones": [
+            "(706) 766-6208",
+            "(706) 295-4614",
+            "(706) 232-2082"
+          ]
+        },
+        {
+          "name": "LAURA BURDETTE",
+          "age": "84",
+          "relationship": "Other Relative",
+          "address": "798 SENTINEL RDG SW, MARIETTA, GA, 30064",
+          "phones": [
+            "(770) 483-2987",
+            "(770) 425-7446",
+            "(770) 787-7313"
+          ]
+        },
+        {
+          "name": "JOHN BURDETT",
+          "age": "55",
+          "relationship": "Other Relative",
+          "address": "3428 RIDGECREST DR, POWDER SPRINGS, GA, 30127",
+          "phones": []
+        },
+        {
+          "name": "DENNIS HELLER",
+          "age": "67",
+          "relationship": "In-law",
+          "address": "1035 BARNETT SHOALS RD APT 1228, ATHENS, GA, 30605",
+          "phones": [
+            "(706) 766-6208",
+            "(706) 766-6209",
+            "(706) 232-2082",
+            "(706) 295-3932",
+            "(706) 232-2026"
+          ]
+        },
+        {
+          "name": "CRAIG HOLLAND",
+          "age": "42",
+          "relationship": "In-law",
+          "address": "15720 BURDETTE CT, ALPHARETTA, GA, 30004",
+          "phones": [
+            "(404) 862-8520",
+            "(770) 713-5115",
+            "(404) 317-8594",
+            "(512) 540-0041"
+          ]
+        },
+        {
+          "name": "LAUREN BURDETTE",
+          "age": "38",
+          "relationship": "In-law",
+          "address": "5301 HILL RD NW, ACWORTH, GA, 30101",
+          "phones": [
+            "(404) 922-6655",
+            "(215) 287-6135"
+          ]
+        }
+      ],
+      "photos": [],
+      "documents": [
+        {
+          "label": "Executor's Deed of Assent — Page 2 of 3",
+          "url": "images/LB01-079/deed-1.jpg"
+        },
+        {
+          "label": "Executor's Deed of Assent — Page 3 of 3",
+          "url": "images/LB01-079/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake"
+    },
+    {
+      "id": "LB03 077 L",
+      "accountNumber": "LB03 077 L",
+      "title": "507 Laprades Rd, Clarkesville, GA 30523 - Lease 420",
+      "lat": 34.819973,
+      "lng": -83.5743149,
+      "locationApproximate": false,
+      "propertyLink": "https://www.zillow.com/homedetails/507-Laprades-Rd-Clarkesville-GA-30523/231085923_zpid/",
+      "taxHistoryLink": "https://rabuncountyga.governmentwindow.com/select_bill.html?search_mode=search2&tax_year=2025&name=ROSS+STEPHEN+%26+MELANIE+ANN+%26&map_code=LB03++077++L&map_type=&logic_unique_key=LB03077L-R-1926",
+      "taxStatus": "Fully Paid",
+      "propertyValue": 69737,
+      "owner": {
+        "names": [
+          "ROSS STEPHEN",
+          "MELANIE ANN",
+          "WARD DEBORAH"
+        ],
+        "mailingAddress": "507 LAPRADES RD, CLARKESVILLE, GA 30523",
+        "phones": [
+          "(682) 229-6195",
+          "(954) 980-0533",
+          "(614) 580-1981",
+          "(972) 618-2307"
+        ],
+        "emails": [
+          "SROSS65@YAHOO.COM",
+          "ARKHAM@GMAIL.COM",
+          "ARKHAM202@AOL.COM",
+          "ARKHAM202@DELL.COM"
+        ]
+      },
+      "salesHistory": [
+        {
+          "saleDate": "5/1/2024",
+          "deedBookPage": "G51 384",
+          "salePrice": "$0",
+          "grantor": "ROSS STEPHEN & MELANIE ANN",
+          "grantee": "ROSS STEPHEN & MELANIE ANN"
+        },
+        {
+          "saleDate": "11/30/2023",
+          "deedBookPage": "Y50 696",
+          "salePrice": "$0",
+          "grantor": "ROSS JEWEL",
+          "grantee": "ROSS STEPHEN & MELANIE ANN"
+        },
+        {
+          "saleDate": "2/1/2006",
+          "deedBookPage": "00R29 0436",
+          "salePrice": "$0",
+          "grantor": "—",
+          "grantee": "ROSS JEWEL"
+        }
+      ],
+      "relatives": [
+        {
+          "name": "MELANIE ROSS",
+          "age": "64",
+          "relationship": "Unknown",
+          "address": "1213 NW 39TH AVE APT A3, GAINESVILLE, FL, 32609",
+          "phones": [
+            "(239) 961-5084",
+            "(239) 349-0623",
+            "(239) 250-1490",
+            "(904) 477-2323",
+            "(239) 595-0537"
+          ]
+        },
+        {
+          "name": "SHANLEY MAGGARD",
+          "age": "27",
+          "relationship": "Other Relative",
+          "address": "421 DRY BRANCH RD, CHURCHVILLE, VA, 24421",
+          "phones": [
+            "(540) 255-3622",
+            "(239) 888-2124",
+            "(239) 574-6988",
+            "(239) 263-5860"
+          ]
+        },
+        {
+          "name": "SHADE MAGGARD",
+          "age": "25",
+          "relationship": "Other Relative",
+          "address": "4220 NW 21ST ST, GAINESVILLE, FL, 32605",
+          "phones": [
+            "(239) 349-5265"
+          ]
+        },
+        {
+          "name": "STEVEN ROSS",
+          "age": "69",
+          "relationship": "In-law",
+          "address": "472 ROCKY RIDGE LN, WEATHERFORD, TX, 76085",
+          "phones": [
+            "(817) 291-3854",
+            "(817) 291-3853",
+            "(817) 341-2906"
+          ]
+        },
+        {
+          "name": "DONALD ROSS",
+          "age": "100",
+          "relationship": "In-law",
+          "address": "125 GARDENIA ST, TAVERNIER, FL, 33070",
+          "phones": [
+            "(305) 852-1595"
+          ]
+        },
+        {
+          "name": "JENE ROSS",
+          "age": "68",
+          "relationship": "In-law",
+          "address": "115 TOM CHAPMAN BLVD APT 1004, WARNER ROBINS, GA, 31088",
+          "phones": [
+            "(478) 225-8906",
+            "(863) 815-3597"
+          ]
+        },
+        {
+          "name": "JEWEL ROSS",
+          "age": "100",
+          "relationship": "In-law",
+          "address": "507 LAPRADES RD, CLARKESVILLE, GA, 30523",
+          "phones": [
+            "(239) 595-0537",
+            "(239) 250-1490",
+            "(305) 852-1595",
+            "(305) 942-8642",
+            "(305) 852-5488"
+          ]
+        }
+      ],
+      "photos": [],
+      "documents": [
+        {
+          "label": "Executor's Deed Under Power — Page 1 of 2",
+          "url": "images/LB03-077-L/deed-1.jpg"
+        },
+        {
+          "label": "Executor's Deed Under Power — Page 2 of 2",
+          "url": "images/LB03-077-L/deed-2.jpg"
+        }
+      ],
+      "category": "non-lake",
+      "notes": "Owner Donald Louis Ross is deceased. Deed conveys a Georgia Power lease lot (Lake Burton Recreational Development, Lease Lot 420, Area 12) rather than fee-simple land."
     }
   ]
 }
